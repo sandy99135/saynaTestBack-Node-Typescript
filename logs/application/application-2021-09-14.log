@@ -1,0 +1,193 @@
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 16:49:49","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 16:49:49","ms":"+13ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 16:49:49","ms":"+2ms"}
+{"message":"++++ HOST       : https://e227-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 16:49:49","ms":"+2ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 16:49:49","ms":"+3ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 16:49:50","ms":"+1s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 16:49:50","ms":"+2ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-14 16:50:25","ms":"+35s"}
+{"service":"bot-service","Error":{"code":"ECONNRESET"},"level":"error","message":"Unable to send Sender Action","timestamp":"2021-09-14 16:50:27","ms":"+2s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 16:55:39","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 16:55:39","ms":"+6ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 16:55:39","ms":"+1ms"}
+{"message":"++++ HOST       : https://e227-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 16:55:39","ms":"+1ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 16:55:39","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 16:55:40","ms":"+588ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 16:55:40","ms":"+1ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:03:09","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:03:09","ms":"+6ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:03:09","ms":"+2ms"}
+{"message":"++++ HOST       : https://6761-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:03:09","ms":"+1ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:03:09","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 17:03:09","ms":"+531ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 17:03:09","ms":"+1ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-14 17:03:29","ms":"+20s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:13:35","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:13:35","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:13:35","ms":"+2ms"}
+{"message":"++++ HOST       : https://3428-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:13:35","ms":"+2ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:13:35","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 17:13:36","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 17:13:36","ms":"+2ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"hello","level":"info","message":"Input_Message","timestamp":"2021-09-14 17:14:08","ms":"+32s"}
+{"service":"bot-service","Error":{"code":"ECONNRESET"},"level":"error","message":"Unable to send Sender Action","timestamp":"2021-09-14 17:14:10","ms":"+2s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:14:48","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:14:48","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:14:48","ms":"+1ms"}
+{"message":"++++ HOST       : https://3428-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:14:48","ms":"+2ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:14:48","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 17:14:49","ms":"+613ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 17:14:49","ms":"+1ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"hello","level":"info","message":"Input_Message","timestamp":"2021-09-14 17:14:56","ms":"+7s"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-14 17:17:03","ms":"+2m"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:19:28","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:19:28","ms":"+59ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:19:28","ms":"+3ms"}
+{"message":"++++ HOST       : https://3428-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:19:28","ms":"+2ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:19:28","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 17:19:29","ms":"+808ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 17:19:29","ms":"+2ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-14 17:19:48","ms":"+19s"}
+{"service":"bot-service","sender":"3598183203594950","text":"coucoucouocu","level":"info","message":"Input_Message","timestamp":"2021-09-14 17:22:41","ms":"+3m"}
+{"service":"bot-service","sender":"3598183203594950","text":"akory","level":"info","message":"Input_Message","timestamp":"2021-09-14 17:24:47","ms":"+2m"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:27:13","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:27:13","ms":"+175ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:27:13","ms":"+30ms"}
+{"message":"++++ HOST       : https://3428-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:27:14","ms":"+811ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:27:14","ms":"+243ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 17:27:17","ms":"+3s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 17:27:17","ms":"+109ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"hello","level":"info","message":"Input_Message","timestamp":"2021-09-14 17:27:33","ms":"+16s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:30:23","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:30:23","ms":"+56ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:30:23","ms":"+27ms"}
+{"message":"++++ HOST       : https://3428-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:30:23","ms":"+39ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:30:23","ms":"+23ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 17:30:26","ms":"+3s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 17:30:26","ms":"+5ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"coucou","level":"info","message":"Input_Message","timestamp":"2021-09-14 17:30:38","ms":"+12s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:34:06","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:34:06","ms":"+248ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:34:06","ms":"+5ms"}
+{"message":"++++ HOST       : https://3428-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:34:06","ms":"+3ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:34:06","ms":"+7ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 17:34:08","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 17:34:08","ms":"+2ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"bonjour","level":"info","message":"Input_Message","timestamp":"2021-09-14 17:34:17","ms":"+9s"}
+{"service":"bot-service","sender":"3598183203594950","text":"hello","level":"info","message":"Input_Message","timestamp":"2021-09-14 17:35:29","ms":"+1m"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:36:20","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:36:20","ms":"+304ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:36:20","ms":"+99ms"}
+{"message":"++++ HOST       : https://3428-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:36:20","ms":"+67ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:36:20","ms":"+26ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 17:36:23","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 17:36:23","ms":"+15ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"coucououuo","level":"info","message":"Input_Message","timestamp":"2021-09-14 17:36:38","ms":"+15s"}
+{"service":"bot-service","sender":"3598183203594950","text":"coucou","level":"info","message":"Input_Message","timestamp":"2021-09-14 17:37:05","ms":"+27s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:47:07","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:47:07","ms":"+62ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:47:07","ms":"+181ms"}
+{"message":"++++ HOST       : https://3428-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:47:07","ms":"+21ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:47:07","ms":"+11ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 17:47:09","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 17:47:09","ms":"+10ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"coucou","level":"info","message":"Input_Message","timestamp":"2021-09-14 17:47:23","ms":"+14s"}
+{"service":"bot-service","sender":"3598183203594950","text":"coucou","level":"info","message":"Input_Message","timestamp":"2021-09-14 17:48:29","ms":"+1m"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:50:29","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:50:29","ms":"+90ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:50:29","ms":"+10ms"}
+{"message":"++++ HOST       : https://3428-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:50:29","ms":"+7ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:50:29","ms":"+10ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 17:50:31","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 17:50:31","ms":"+6ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"caca","level":"info","message":"Input_Message","timestamp":"2021-09-14 17:50:40","ms":"+8s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:52:08","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:52:08","ms":"+87ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:52:08","ms":"+33ms"}
+{"message":"++++ HOST       : https://3428-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:52:08","ms":"+13ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:52:08","ms":"+24ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 17:52:11","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 17:52:11","ms":"+4ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"caca","level":"info","message":"Input_Message","timestamp":"2021-09-14 17:52:27","ms":"+17s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:54:05","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:54:05","ms":"+64ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:54:05","ms":"+17ms"}
+{"message":"++++ HOST       : https://3428-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:54:05","ms":"+11ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:54:05","ms":"+16ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 17:54:07","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 17:54:07","ms":"+5ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"hellll","level":"info","message":"Input_Message","timestamp":"2021-09-14 17:54:16","ms":"+8s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:58:09","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:58:09","ms":"+165ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:58:09","ms":"+84ms"}
+{"message":"++++ HOST       : https://3428-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:58:09","ms":"+11ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:58:09","ms":"+12ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 17:58:11","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 17:58:11","ms":"+11ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"coucou$","level":"info","message":"Input_Message","timestamp":"2021-09-14 17:58:15","ms":"+4s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:59:12","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:59:12","ms":"+40ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:59:12","ms":"+6ms"}
+{"message":"++++ HOST       : https://3428-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:59:12","ms":"+8ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 17:59:12","ms":"+7ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 17:59:14","ms":"+3s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 17:59:14","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"coucouou","level":"info","message":"Input_Message","timestamp":"2021-09-14 17:59:38","ms":"+24s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:00:55","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:00:55","ms":"+94ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:00:55","ms":"+19ms"}
+{"message":"++++ HOST       : https://3428-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:00:55","ms":"+15ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:00:55","ms":"+8ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 18:00:58","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 18:00:58","ms":"+4ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"coucocuouc","level":"info","message":"Input_Message","timestamp":"2021-09-14 18:01:08","ms":"+10s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:02:56","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:02:56","ms":"+84ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:02:56","ms":"+67ms"}
+{"message":"++++ HOST       : https://3428-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:02:56","ms":"+16ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:02:56","ms":"+13ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 18:02:59","ms":"+3s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 18:02:59","ms":"+76ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"heee","level":"info","message":"Input_Message","timestamp":"2021-09-14 18:03:07","ms":"+9s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:04:23","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:04:23","ms":"+247ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:04:23","ms":"+26ms"}
+{"message":"++++ HOST       : https://3428-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:04:23","ms":"+14ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:04:23","ms":"+8ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 18:04:26","ms":"+3s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 18:04:26","ms":"+5ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"hey","level":"info","message":"Input_Message","timestamp":"2021-09-14 18:04:38","ms":"+12s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:06:11","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:06:11","ms":"+68ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:06:11","ms":"+16ms"}
+{"message":"++++ HOST       : https://3428-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:06:11","ms":"+15ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:06:11","ms":"+12ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 18:06:13","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 18:06:13","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"heyyyy","level":"info","message":"Input_Message","timestamp":"2021-09-14 18:06:21","ms":"+8s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:07:42","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:07:42","ms":"+47ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:07:42","ms":"+16ms"}
+{"message":"++++ HOST       : https://3428-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:07:42","ms":"+29ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:07:42","ms":"+31ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 18:07:45","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 18:07:45","ms":"+25ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"akory","level":"info","message":"Input_Message","timestamp":"2021-09-14 18:07:53","ms":"+8s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:09:21","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:09:21","ms":"+294ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:09:21","ms":"+374ms"}
+{"message":"++++ HOST       : https://3428-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:09:21","ms":"+29ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:09:21","ms":"+19ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 18:09:23","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 18:09:23","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"hey","level":"info","message":"Input_Message","timestamp":"2021-09-14 18:09:42","ms":"+19s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:11:10","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:11:10","ms":"+69ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:11:10","ms":"+11ms"}
+{"message":"++++ HOST       : https://3428-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:11:10","ms":"+8ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-14 18:11:10","ms":"+8ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-14 18:11:12","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-14 18:11:12","ms":"+4ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"hey","level":"info","message":"Input_Message","timestamp":"2021-09-14 18:11:21","ms":"+8s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Start_re_activation","level":"info","message":"Input_Payload","timestamp":"2021-09-14 18:11:43","ms":"+23s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"WELCOME_NEW_CLIENT_TO_MY_ACCES","level":"info","message":"Input_Payload","timestamp":"2021-09-14 18:11:55","ms":"+11s"}

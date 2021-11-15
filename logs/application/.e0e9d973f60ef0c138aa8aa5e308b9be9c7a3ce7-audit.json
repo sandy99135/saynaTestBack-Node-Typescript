@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "d:\\Abm\\MyAccès\\prod\\preprod_with_viber_flashloan\\MyAcces.bot\\logs\\application\\.e0e9d973f60ef0c138aa8aa5e308b9be9c7a3ce7-audit.json",
+    "files": [
+        {
+            "date": 1626700536498,
+            "name": "d:\\Abm\\MyAccès\\prod\\preprod_with_viber_flashloan\\MyAcces.bot\\logs\\application\\application-2021-07-19.log",
+            "hash": "db9c10c0152431936a00dc2e9692a8a8"
+        }
+    ]
+}

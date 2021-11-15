@@ -1,0 +1,5 @@
+FbIdDebiteur,CompteDebiteur,NomBeneficiaire,BanqueBeneficiaire,CompteBeneficiaire,Montant,Motif,EstInstantane,RefTransfer,Date
+|00011000012410078737617|poly|ABM||3000|loyer|true|01QJ00002073|Mon Aug 23 2021 08:59:57
+|00011000012410078737617|poly|ABM||3000|loyer|true|01QJ00002074|Mon Aug 23 2021 09:04:45
+|00011000012410078737617|liova|ABM||10000|loyer|true|01QJ00002075|Mon Aug 23 2021 09:16:46
+|00011000012410078737617|Koto|ABM||3000|gouter|true|01QJ00002077|Mon Aug 23 2021 09:58:38

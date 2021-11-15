@@ -1,0 +1,333 @@
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 12:33:39","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 12:33:39","ms":"+26ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 12:33:39","ms":"+17ms"}
+{"message":"++++ HOST       : https://2a15ea3e1588.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 12:33:40","ms":"+70ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 12:33:40","ms":"+63ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 12:33:42","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 12:33:42","ms":"+4ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-08-18 12:36:43","ms":"+3m"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:32:39","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:32:39","ms":"+8ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:32:39","ms":"+11ms"}
+{"message":"++++ HOST       : https://2a15ea3e1588.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:32:40","ms":"+2ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:32:40","ms":"+3ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:33:14","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:33:14","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:33:14","ms":"+1ms"}
+{"message":"++++ HOST       : https://2a15ea3e1588.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:33:14","ms":"+9ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:33:14","ms":"+2ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:34:16","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:34:16","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:34:16","ms":"+1ms"}
+{"message":"++++ HOST       : https://2a15ea3e1588.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:34:16","ms":"+9ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:34:16","ms":"+2ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:40:26","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:40:26","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:40:26","ms":"+1ms"}
+{"message":"++++ HOST       : https://2a15ea3e1588.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:40:26","ms":"+7ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:40:26","ms":"+3ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:41:11","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:41:11","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:41:11","ms":"+8ms"}
+{"message":"++++ HOST       : https://2a15ea3e1588.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:41:11","ms":"+2ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:41:11","ms":"+7ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:41:50","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:41:50","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:41:50","ms":"+1ms"}
+{"message":"++++ HOST       : https://b01befc63c64.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:41:50","ms":"+7ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:41:50","ms":"+1ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:45:22","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:45:22","ms":"+6ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:45:22","ms":"+2ms"}
+{"message":"++++ HOST       : https://b01befc63c64.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:45:22","ms":"+10ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:45:22","ms":"+1ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:47:54","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:47:54","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:47:54","ms":"+2ms"}
+{"message":"++++ HOST       : https://b01befc63c64.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:47:54","ms":"+1ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:47:54","ms":"+1ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 13:57:47","ms":"+0ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:10:19","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:10:19","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:10:19","ms":"+2ms"}
+{"message":"++++ HOST       : https://b01befc63c64.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:10:19","ms":"+12ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:10:19","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 14:10:19","ms":"+547ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 14:10:19","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-08-18 14:10:37","ms":"+18s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer MyAccès","level":"info","message":"Input_Payload","timestamp":"2021-08-18 14:10:48","ms":"+11s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Créer votre compte","level":"info","message":"Input_Payload","timestamp":"2021-08-18 14:11:03","ms":"+16s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Créer votre compte","level":"info","message":"Input_Payload","timestamp":"2021-08-18 14:11:14","ms":"+11s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:13:36","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:13:36","ms":"+6ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:13:36","ms":"+2ms"}
+{"message":"++++ HOST       : https://b01befc63c64.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:13:36","ms":"+7ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:13:36","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 14:13:36","ms":"+685ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 14:13:36","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-08-18 14:17:32","ms":"+4m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-08-18 14:17:40","ms":"+8s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:18:48","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:18:48","ms":"+4ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:18:48","ms":"+8ms"}
+{"message":"++++ HOST       : https://b01befc63c64.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:18:48","ms":"+1ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:18:48","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 14:18:48","ms":"+459ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 14:18:48","ms":"+2ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-08-18 14:18:58","ms":"+10s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-08-18 14:20:29","ms":"+2m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-08-18 14:21:34","ms":"+1m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-08-18 14:21:53","ms":"+20s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-08-18 14:22:18","ms":"+25s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-08-18 14:22:18","ms":"+28ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-08-18 14:22:21","ms":"+3s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-08-18 14:22:25","ms":"+3s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Code oublié","level":"info","message":"Input_Payload","timestamp":"2021-08-18 14:23:13","ms":"+48s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Oui, je valide","level":"info","message":"Input_Payload","timestamp":"2021-08-18 14:23:19","ms":"+6s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:24:29","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:24:29","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:24:29","ms":"+1ms"}
+{"message":"++++ HOST       : https://b01befc63c64.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:24:29","ms":"+3ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:24:29","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 14:24:30","ms":"+466ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 14:24:30","ms":"+2ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:24:55","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:24:55","ms":"+18ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:24:55","ms":"+6ms"}
+{"message":"++++ HOST       : https://b01befc63c64.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:24:55","ms":"+1ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:24:55","ms":"+6ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 14:24:55","ms":"+571ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 14:24:55","ms":"+41ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-08-18 14:46:36","ms":"+22m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-08-18 14:46:45","ms":"+9s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-08-18 14:46:53","ms":"+8s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-08-18 14:46:53","ms":"+57ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-08-18 14:46:56","ms":"+3s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-08-18 14:47:06","ms":"+10s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Code oublié","level":"info","message":"Input_Payload","timestamp":"2021-08-18 14:47:44","ms":"+38s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Oui, je valide","level":"info","message":"Input_Payload","timestamp":"2021-08-18 14:47:49","ms":"+5s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-08-18 14:49:33","ms":"+2m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-08-18 14:49:44","ms":"+11s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-08-18 14:49:51","ms":"+8s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-08-18 14:49:58","ms":"+6s"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-08-18 14:49:58","ms":"+3ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Vers un compte tiers","level":"info","message":"Input_Payload","timestamp":"2021-08-18 14:50:11","ms":"+13s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:53:14","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:53:14","ms":"+7ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:53:14","ms":"+6ms"}
+{"message":"++++ HOST       : https://b01befc63c64.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:53:14","ms":"+1ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 14:53:14","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 14:53:15","ms":"+587ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 14:53:15","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-08-18 14:56:40","ms":"+3m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-08-18 14:56:53","ms":"+13s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-08-18 14:57:08","ms":"+16s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-08-18 14:57:08","ms":"+46ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-08-18 14:57:11","ms":"+3s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-08-18 14:57:15","ms":"+4s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 15:01:26","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 15:01:26","ms":"+24ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 15:01:26","ms":"+1ms"}
+{"message":"++++ HOST       : https://b01befc63c64.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 15:01:26","ms":"+2ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 15:01:26","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 15:01:27","ms":"+861ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 15:01:27","ms":"+1ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 15:07:53","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 15:07:53","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 15:07:53","ms":"+1ms"}
+{"message":"++++ HOST       : https://b01befc63c64.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 15:07:53","ms":"+4ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 15:07:53","ms":"+3ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 15:07:54","ms":"+482ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 15:07:54","ms":"+1ms"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"Hello","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:09:04","ms":"+1m"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"Hello","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:10:15","ms":"+1m"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 15:10:46","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 15:10:46","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 15:10:46","ms":"+1ms"}
+{"message":"++++ HOST       : https://b01befc63c64.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 15:10:46","ms":"+2ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 15:10:46","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 15:10:46","ms":"+460ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 15:10:46","ms":"+2ms"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"Hello","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:10:54","ms":"+8s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"Hello","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:11:24","ms":"+30s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"Hello","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:11:59","ms":"+34s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:13:16","ms":"+1m"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:13:27","ms":"+11s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-08-18 15:13:33","ms":"+6s"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-08-18 15:13:33","ms":"+7ms"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Vers un compte tiers","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:13:40","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Code oublié","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:16:22","ms":"+3m"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:17:03","ms":"+41s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:17:11","ms":"+8s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-08-18 15:17:17","ms":"+6s"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-08-18 15:17:17","ms":"+2ms"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"0","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:17:45","ms":"+28s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:18:03","ms":"+18s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:18:39","ms":"+36s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-08-18 15:18:39","ms":"+55ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-08-18 15:18:42","ms":"+3s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:18:51","ms":"+9s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Code oublié","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:19:02","ms":"+10s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Non, annuler","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:19:02","ms":"+910ms"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Oui, je valide","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:19:08","ms":"+6s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"Hello","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:20:37","ms":"+1m"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:21:10","ms":"+34s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:21:19","ms":"+9s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-08-18 15:21:25","ms":"+6s"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-08-18 15:21:25","ms":"+4ms"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Vers un compte tiers","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:21:32","ms":"+6s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"0","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:24:13","ms":"+3m"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:24:31","ms":"+18s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:24:46","ms":"+15s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-08-18 15:24:53","ms":"+6s"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-08-18 15:24:53","ms":"+5ms"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Vers un compte tiers","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:24:58","ms":"+5s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"1","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:25:55","ms":"+57s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"Autre compte","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:26:21","ms":"+26s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"ABM","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:26:31","ms":"+10s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"00011000142110055840878","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:27:36","ms":"+1m"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"Nom et prenom test vibee","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:27:55","ms":"+19s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"3000","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:28:21","ms":"+26s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"Motif test","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:28:33","ms":"+12s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Enregistrer","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:29:41","ms":"+1m"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"Favoris test 1","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:29:48","ms":"+7s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"VALIDER","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:30:01","ms":"+13s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"VALIDER","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:30:22","ms":"+21s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:30:47","ms":"+25s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:31:02","ms":"+15s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-08-18 15:31:08","ms":"+6s"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-08-18 15:31:08","ms":"+7ms"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Gérer liste favoris","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:31:26","ms":"+18s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Suppression","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:31:46","ms":"+20s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"Favoris test 1","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:31:56","ms":"+11s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"ANNULER","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:32:05","ms":"+9s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:32:47","ms":"+42s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:32:55","ms":"+7s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-08-18 15:33:01","ms":"+6s"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-08-18 15:33:01","ms":"+7ms"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Vers mon compte","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:33:06","ms":"+5s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"1","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:35:04","ms":"+2m"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"1","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:35:27","ms":"+23s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"500","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:35:36","ms":"+9s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","text":"Motif","level":"info","message":"Input_Message","timestamp":"2021-08-18 15:35:53","ms":"+18s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:36:58","ms":"+1m"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:37:09","ms":"+11s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-08-18 15:37:09","ms":"+41ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-08-18 15:37:12","ms":"+3s"}
+{"service":"bot-service","sender":"GXvYzKRR4LtNbWwv1O3Ezg==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-08-18 15:37:20","ms":"+8s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:11:55","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:11:55","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:11:55","ms":"+7ms"}
+{"message":"++++ HOST       : https://6e0af0430340.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:11:55","ms":"+2ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:11:55","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 16:11:56","ms":"+572ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 16:11:56","ms":"+3ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:14:14","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:14:14","ms":"+6ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:14:14","ms":"+1ms"}
+{"message":"++++ HOST       : https://6e0af0430340.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:14:14","ms":"+1ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:14:14","ms":"+0ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 16:14:14","ms":"+607ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 16:14:14","ms":"+2ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-08-18 16:14:19","ms":"+5s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"0","level":"info","message":"Input_Message","timestamp":"2021-08-18 16:14:36","ms":"+17s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-08-18 16:15:47","ms":"+1m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-08-18 16:16:13","ms":"+26s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-08-18 16:16:25","ms":"+12s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-08-18 16:16:34","ms":"+9s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-08-18 16:16:34","ms":"+66ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-08-18 16:16:37","ms":"+3s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-08-18 16:16:40","ms":"+3s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:17:34","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:17:34","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:17:34","ms":"+1ms"}
+{"message":"++++ HOST       : https://6e0af0430340.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:17:34","ms":"+4ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:17:34","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 16:17:35","ms":"+586ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 16:17:35","ms":"+1ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:21:14","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:21:14","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:21:14","ms":"+1ms"}
+{"message":"++++ HOST       : https://6e0af0430340.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:21:14","ms":"+4ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:21:14","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 16:21:14","ms":"+547ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 16:21:14","ms":"+1ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:22:21","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:22:21","ms":"+4ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:22:21","ms":"+1ms"}
+{"message":"++++ HOST       : https://6e0af0430340.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:22:21","ms":"+4ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:22:21","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 16:22:22","ms":"+580ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 16:22:22","ms":"+2ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:25:06","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:25:06","ms":"+4ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:25:06","ms":"+5ms"}
+{"message":"++++ HOST       : https://6e0af0430340.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:25:06","ms":"+2ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:25:06","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 16:25:06","ms":"+528ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 16:25:06","ms":"+1ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:26:12","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:26:12","ms":"+4ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:26:12","ms":"+1ms"}
+{"message":"++++ HOST       : https://6e0af0430340.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:26:12","ms":"+3ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:26:12","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 16:26:12","ms":"+491ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 16:26:12","ms":"+1ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:35:09","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:35:09","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:35:09","ms":"+1ms"}
+{"message":"++++ HOST       : https://6e0af0430340.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:35:09","ms":"+8ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:35:09","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 16:35:09","ms":"+473ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 16:35:09","ms":"+1ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:36:08","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:36:08","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:36:08","ms":"+4ms"}
+{"message":"++++ HOST       : https://6e0af0430340.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:36:08","ms":"+4ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:36:08","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 16:36:08","ms":"+583ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 16:36:08","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"CC","level":"info","message":"Input_Message","timestamp":"2021-08-18 16:36:55","ms":"+47s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:39:01","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:39:01","ms":"+7ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:39:01","ms":"+4ms"}
+{"message":"++++ HOST       : https://6e0af0430340.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:39:01","ms":"+2ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:39:01","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 16:39:02","ms":"+590ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 16:39:02","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-08-18 16:39:27","ms":"+26s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:44:02","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:44:02","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:44:02","ms":"+1ms"}
+{"message":"++++ HOST       : https://6e0af0430340.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:44:02","ms":"+4ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 16:44:02","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 16:44:02","ms":"+519ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 16:44:02","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-08-18 16:44:10","ms":"+8s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-08-18 16:44:19","ms":"+9s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-08-18 16:44:19","ms":"+53ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-08-18 16:44:22","ms":"+3s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-08-18 16:44:24","ms":"+2s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-08-18 16:44:24","ms":"+86ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-08-18 16:44:25","ms":"+2s"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-08-18 16:44:27","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Code oublié","level":"info","message":"Input_Payload","timestamp":"2021-08-18 16:44:34","ms":"+8s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Non, annuler","level":"info","message":"Input_Payload","timestamp":"2021-08-18 16:44:56","ms":"+21s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-08-18 16:45:18","ms":"+22s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-08-18 16:45:25","ms":"+7s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-08-18 16:45:31","ms":"+6s"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-08-18 16:45:31","ms":"+2ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Vers un compte tiers","level":"info","message":"Input_Payload","timestamp":"2021-08-18 16:45:49","ms":"+18s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-08-18 17:00:54","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-08-18 17:00:54","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-08-18 17:00:54","ms":"+1ms"}
+{"message":"++++ HOST       : https://6e0af0430340.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-08-18 17:00:54","ms":"+4ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-08-18 17:00:54","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-08-18 17:00:55","ms":"+516ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-08-18 17:00:55","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"CC","level":"info","message":"Input_Message","timestamp":"2021-08-18 17:01:21","ms":"+27s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-08-18 17:02:09","ms":"+48s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-08-18 17:02:16","ms":"+7s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-08-18 17:02:23","ms":"+6s"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-08-18 17:02:23","ms":"+4ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Vers un compte tiers","level":"info","message":"Input_Payload","timestamp":"2021-08-18 17:02:29","ms":"+6s"}

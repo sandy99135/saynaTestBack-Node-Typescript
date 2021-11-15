@@ -1,0 +1,35 @@
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-07-22 00:38:06","ms":"+0ms"}
+{"message":"++++ Bot Status : PROD","level":"debug","service":"bot-service","timestamp":"2021-07-22 00:38:06","ms":"+9ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-07-22 00:38:06","ms":"+2ms"}
+{"message":"++++ HOST       : https://api.accesbanque.mg","level":"debug","service":"bot-service","timestamp":"2021-07-22 00:38:06","ms":"+2ms"}
+{"message":"++++ API HOST   : http://192.168.210.2:51943","level":"debug","service":"bot-service","timestamp":"2021-07-22 00:38:06","ms":"+3ms"}
+{"message":"Http server is listening on 60165","level":"info","service":"bot-service","timestamp":"2021-07-22 00:38:07","ms":"+844ms"}
+{"message":"Https server is listening on 60164","level":"info","service":"bot-service","timestamp":"2021-07-22 00:38:07","ms":"+3ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-07-22 00:46:32","ms":"+0ms"}
+{"message":"++++ Bot Status : PROD","level":"debug","service":"bot-service","timestamp":"2021-07-22 00:46:32","ms":"+10ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-07-22 00:46:32","ms":"+2ms"}
+{"message":"++++ HOST       : https://api.accesbanque.mg","level":"debug","service":"bot-service","timestamp":"2021-07-22 00:46:32","ms":"+2ms"}
+{"message":"++++ API HOST   : http://192.168.210.2:51943","level":"debug","service":"bot-service","timestamp":"2021-07-22 00:46:32","ms":"+1ms"}
+{"message":"Http server is listening on 60165","level":"info","service":"bot-service","timestamp":"2021-07-22 00:46:33","ms":"+785ms"}
+{"message":"Https server is listening on 60164","level":"info","service":"bot-service","timestamp":"2021-07-22 00:46:33","ms":"+2ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-07-22 01:10:11","ms":"+0ms"}
+{"message":"++++ Bot Status : PROD","level":"debug","service":"bot-service","timestamp":"2021-07-22 01:10:11","ms":"+9ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-07-22 01:10:11","ms":"+2ms"}
+{"message":"++++ HOST       : https://api.accesbanque.mg","level":"debug","service":"bot-service","timestamp":"2021-07-22 01:10:11","ms":"+2ms"}
+{"message":"++++ API HOST   : http://192.168.210.2:51943","level":"debug","service":"bot-service","timestamp":"2021-07-22 01:10:11","ms":"+1ms"}
+{"message":"Http server is listening on 60165","level":"info","service":"bot-service","timestamp":"2021-07-22 01:10:12","ms":"+859ms"}
+{"message":"Https server is listening on 60164","level":"info","service":"bot-service","timestamp":"2021-07-22 01:10:12","ms":"+3ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-07-22 11:38:12","ms":"+0ms"}
+{"message":"++++ Bot Status : PROD","level":"debug","service":"bot-service","timestamp":"2021-07-22 11:38:12","ms":"+12ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-07-22 11:38:12","ms":"+2ms"}
+{"message":"++++ HOST       : https://api.accesbanque.mg","level":"debug","service":"bot-service","timestamp":"2021-07-22 11:38:12","ms":"+2ms"}
+{"message":"++++ API HOST   : http://192.168.210.2:51943","level":"debug","service":"bot-service","timestamp":"2021-07-22 11:38:12","ms":"+2ms"}
+{"message":"Http server is listening on 60165","level":"info","service":"bot-service","timestamp":"2021-07-22 11:38:14","ms":"+2s"}
+{"message":"Https server is listening on 60164","level":"info","service":"bot-service","timestamp":"2021-07-22 11:38:14","ms":"+2ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-07-22 11:54:00","ms":"+0ms"}
+{"message":"++++ Bot Status : PROD","level":"debug","service":"bot-service","timestamp":"2021-07-22 11:54:00","ms":"+10ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-07-22 11:54:00","ms":"+2ms"}
+{"message":"++++ HOST       : https://api.accesbanque.mg","level":"debug","service":"bot-service","timestamp":"2021-07-22 11:54:00","ms":"+2ms"}
+{"message":"++++ API HOST   : http://192.168.210.2:51943","level":"debug","service":"bot-service","timestamp":"2021-07-22 11:54:00","ms":"+2ms"}
+{"message":"Http server is listening on 60165","level":"info","service":"bot-service","timestamp":"2021-07-22 11:54:01","ms":"+920ms"}
+{"message":"Https server is listening on 60164","level":"info","service":"bot-service","timestamp":"2021-07-22 11:54:01","ms":"+2ms"}

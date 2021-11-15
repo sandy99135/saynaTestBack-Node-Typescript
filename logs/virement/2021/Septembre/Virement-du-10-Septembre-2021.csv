@@ -1,0 +1,5 @@
+FbIdDebiteur,CompteDebiteur,NomBeneficiaire,BanqueBeneficiaire,CompteBeneficiaire,Montant,Motif,EstInstantane,RefTransfer,Date
+|00011000012110086318376|MOI MEME|ABM||1000000|Test virement compte à compte|true|01QI00002256|Fri Sep 10 2021 11:41:18
+|00011000012410069532317|Andrianina fitia Nambinintsoa|SOCIETE_GENERALE||10000|Test virement externe|true|01QH00000392|Fri Sep 10 2021 11:45:32
+|00011000012410069532317|Razafimahatratra rejo|ABM||200000|Test virement  ABM|true|01QJ00002082|Fri Sep 10 2021 12:00:20
+|00011000282410011786551|Test virement Rajo|ABM||200000|Loyer test|true|28QJ00000179|Fri Sep 10 2021 16:38:17

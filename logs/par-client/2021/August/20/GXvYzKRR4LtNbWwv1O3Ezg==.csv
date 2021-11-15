@@ -1,0 +1,107 @@
+Message,Payload,Attachment,Pin,Issuer,Date
+Hello||||Client|Fri Aug 20 2021 11:22:43
+|Mes comptes|||Client|Fri Aug 20 2021 11:23:04
+|Consultation|||Client|Fri Aug 20 2021 11:23:17
+|Mon solde|||Client|Fri Aug 20 2021 11:23:25
+|||xxxx|Client|Fri Aug 20 2021 11:24:10
+|Mes comptes|||Client|Fri Aug 20 2021 11:24:54
+|Envoi d'argent|||Client|Fri Aug 20 2021 11:25:02
+|Vers mon compte|||Client|Fri Aug 20 2021 11:25:22
+|||xxxx|Client|Fri Aug 20 2021 11:25:35
+1||||Client|Fri Aug 20 2021 11:26:14
+2||||Client|Fri Aug 20 2021 11:29:46
+1000||||Client|Fri Aug 20 2021 11:30:01
+Appro test||||Client|Fri Aug 20 2021 11:30:13
+|||xxxx|Client|Fri Aug 20 2021 11:32:51
+|Mes comptes|||Client|Fri Aug 20 2021 11:33:28
+|Consultation|||Client|Fri Aug 20 2021 11:33:38
+|Mon solde|||Client|Fri Aug 20 2021 11:33:46
+|||xxxx|Client|Fri Aug 20 2021 11:34:02
+|Mes comptes|||Client|Fri Aug 20 2021 11:34:43
+|Envoi d'argent|||Client|Fri Aug 20 2021 11:34:52
+|Vers un compte tiers|||Client|Fri Aug 20 2021 11:35:04
+|||xxxx|Client|Fri Aug 20 2021 11:35:17
+2||||Client|Fri Aug 20 2021 11:35:55
+Autre compte||||Client|Fri Aug 20 2021 11:36:14
+ABM||||Client|Fri Aug 20 2021 11:36:24
+00011000282410016879051||||Client|Fri Aug 20 2021 11:37:13
+|Mes comptes|||Client|Fri Aug 20 2021 11:38:17
+|Envoi d'argent|||Client|Fri Aug 20 2021 11:38:31
+|Vers un compte tiers|||Client|Fri Aug 20 2021 11:38:44
+|||xxxx|Client|Fri Aug 20 2021 11:39:57
+2||||Client|Fri Aug 20 2021 11:40:53
+Autre compte||||Client|Fri Aug 20 2021 11:41:06
+ABM||||Client|Fri Aug 20 2021 11:41:13
+00011000142110055840878||||Client|Fri Aug 20 2021 11:41:48
+Koto||||Client|Fri Aug 20 2021 11:42:09
+600||||Client|Fri Aug 20 2021 11:42:23
+Test||||Client|Fri Aug 20 2021 11:42:43
+|||xxxx|Client|Fri Aug 20 2021 11:43:27
+|Enregistrer|||Client|Fri Aug 20 2021 11:43:57
+Kotokoto||||Client|Fri Aug 20 2021 11:44:26
+|VALIDER|||Client|Fri Aug 20 2021 11:44:37
+0||||Client|Fri Aug 20 2021 11:45:29
+|Mes comptes|||Client|Fri Aug 20 2021 11:45:40
+|Envoi d'argent|||Client|Fri Aug 20 2021 11:45:50
+|Vers un compte tiers|||Client|Fri Aug 20 2021 11:46:08
+|||xxxx|Client|Fri Aug 20 2021 11:46:25
+1||||Client|Fri Aug 20 2021 11:47:20
+Autre compte||||Client|Fri Aug 20 2021 11:47:29
+SOCIETE GENERALE||||Client|Fri Aug 20 2021 11:47:35
+00008010140500122623481||||Client|Fri Aug 20 2021 11:48:21
+Fitia||||Client|Fri Aug 20 2021 11:48:35
+100||||Client|Fri Aug 20 2021 11:48:48
+Motif||||Client|Fri Aug 20 2021 11:49:06
+|||xxxx|Client|Fri Aug 20 2021 11:50:39
+|Ne pas enregistrer|||Client|Fri Aug 20 2021 11:50:59
+|Mes comptes|||Client|Fri Aug 20 2021 11:51:18
+|Envoi d'argent|||Client|Fri Aug 20 2021 11:51:27
+|Gérer liste favoris|||Client|Fri Aug 20 2021 11:51:40
+|Suppression|||Client|Fri Aug 20 2021 11:51:50
+0||||Client|Fri Aug 20 2021 11:52:11
+|Mes comptes|||Client|Fri Aug 20 2021 11:53:03
+|Envoi d'argent|||Client|Fri Aug 20 2021 11:53:11
+|Vers un compte tiers|||Client|Fri Aug 20 2021 11:53:30
+|||xxxx|Client|Fri Aug 20 2021 11:53:43
+2||||Client|Fri Aug 20 2021 11:54:31
+Liste favoris||||Client|Fri Aug 20 2021 11:54:39
+Favoris test 1||||Client|Fri Aug 20 2021 11:54:55
+5000||||Client|Fri Aug 20 2021 11:55:17
+Mot tif||||Client|Fri Aug 20 2021 11:55:33
+|||xxxx|Client|Fri Aug 20 2021 11:56:16
+|Mes comptes|||Client|Fri Aug 20 2021 11:56:51
+|Envoi d'argent|||Client|Fri Aug 20 2021 11:57:03
+|Gérer liste favoris|||Client|Fri Aug 20 2021 11:57:15
+|Ajout|||Client|Fri Aug 20 2021 11:57:30
+SOCIETE GENERALE||||Client|Fri Aug 20 2021 11:58:21
+00008010140500122623481||||Client|Fri Aug 20 2021 11:58:57
+Andr Fitia||||Client|Fri Aug 20 2021 11:59:19
+Test 2||||Client|Fri Aug 20 2021 11:59:30
+|||xxxx|Client|Fri Aug 20 2021 11:59:42
+|Mes comptes|||Client|Fri Aug 20 2021 12:00:22
+|Envoi d'argent|||Client|Fri Aug 20 2021 12:00:31
+|Gérer liste favoris|||Client|Fri Aug 20 2021 12:00:45
+|Suppression|||Client|Fri Aug 20 2021 12:00:52
+Favoris test 1||||Client|Fri Aug 20 2021 12:01:05
+|||xxxx|Client|Fri Aug 20 2021 12:01:53
+|Mes comptes|||Client|Fri Aug 20 2021 12:03:26
+|Envoi d'argent|||Client|Fri Aug 20 2021 12:03:41
+|Vers un compte tiers|||Client|Fri Aug 20 2021 12:03:56
+|||xxxx|Client|Fri Aug 20 2021 12:04:20
+3||||Client|Fri Aug 20 2021 12:05:03
+0||||Client|Fri Aug 20 2021 12:05:30
+|Mes comptes|||Client|Fri Aug 20 2021 12:06:06
+|Envoi d'argent|||Client|Fri Aug 20 2021 12:07:10
+|Vers un compte tiers|||Client|Fri Aug 20 2021 12:07:29
+|||xxxx|Client|Fri Aug 20 2021 12:08:01
+3||||Client|Fri Aug 20 2021 12:08:55
+Autre compte||||Client|Fri Aug 20 2021 12:09:13
+ABM||||Client|Fri Aug 20 2021 12:11:03
+00011000142110055840878||||Client|Fri Aug 20 2021 12:12:06
+Solo||||Client|Fri Aug 20 2021 12:12:33
+10000||||Client|Fri Aug 20 2021 12:13:02
+Vola||||Client|Fri Aug 20 2021 12:13:12
+|||xxxx|Client|Fri Aug 20 2021 12:13:32
+|Enregistrer|||Client|Fri Aug 20 2021 12:13:56
+Test||||Client|Fri Aug 20 2021 12:14:06
+|VALIDER|||Client|Fri Aug 20 2021 12:14:13

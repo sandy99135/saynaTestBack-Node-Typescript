@@ -1,0 +1,104 @@
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-27 08:35:46","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-27 08:35:46","ms":"+66ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-27 08:35:46","ms":"+4ms"}
+{"message":"++++ HOST       : https://d1c4-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-27 08:35:46","ms":"+3ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-27 08:35:46","ms":"+4ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-27 08:35:52","ms":"+6s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-27 08:35:52","ms":"+1ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-27 08:37:12","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-27 08:37:12","ms":"+7ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-27 08:37:12","ms":"+1ms"}
+{"message":"++++ HOST       : https://e853-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-27 08:37:12","ms":"+2ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-27 08:37:12","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-27 08:37:13","ms":"+621ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-27 08:37:13","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-27 08:47:05","ms":"+10m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-27 09:17:38","ms":"+31m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Pas encore en compte","level":"info","message":"Input_Payload","timestamp":"2021-09-27 09:18:14","ms":"+36s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Créer votre compte","level":"info","message":"Input_Payload","timestamp":"2021-09-27 09:18:17","ms":"+3s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","imageUrl":"https://dl-media.viber.com/4/media/2/short/any/sig/image/0x0/118d/bf2aa6e5dfe61c6be2dfc18c54405b4e1020da6713c07685e2abbf869a59118d.jpg?Expires=1632727184&Signature=FinuiXS4753QlyJMXcii2W-QVQZ69fpcXBG7~x6pjJyFtfSZa9L2exfWrst3mqqqK2AnCleZ~bcoL9l78rl17tPsDy0z3AWdXoGexdaP-zHXHSL3qEdsk2TkuMiwptXoVfFnJaYkhyPjLzEu6kPChWBI3RBajBvERwEivloZDkcGV60dmBfnd6AK16cCB0A1V~YGLtVpnyxr77kMmnz92KMjG87miyyBYhB7NYcCMkOzJF4NUGroCZk9KK2ubuPXZd4NX7-XFF6GirC-J0BZAklEwnOsb-564oqdQZZbbeptiunCr5T2I50Yskp-qRQYs4Z4Q~Oo97shTDGjioHldQ__&Key-Pair-Id=APKAJ62UNSBCMEIPV4HA","level":"info","message":"Input_Image_Url","timestamp":"2021-09-27 09:19:46","ms":"+1m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","imageUrl":"https://dl-media.viber.com/4/media/2/short/any/sig/image/0x0/2354/f9b27f1b4f8f518ce1db3c47ad7436de14d1aa0ea6b6767c228014baedb32354.jpg?Expires=1632727201&Signature=kazP9ItfMlmgF6Z3EERJWGjAYEJQ0gcKjRqesinFzfRlraTSUd07g1yEWgH6BEZKLHuXkeevbFKU8T7QzIiM1ypwk4Ia8jmMl4GkG9oBW39Db5m2dp~EpN7P74viRGHA5gcFsd8huvBfDxmpNTNzRkubqtJ0Wss20gI~GthMXgejdeggXQbmeoe8CfDlIJBcGUv4nNM05ZlgvXdshdd5-nsCpPNV~IVXTG31ojEcyshb8N53782cqxqWye9W9QssGb6xFlmID~xwCXk-6idu5yYLZ9tmHth-DKMv5VLAbKMDWmnV0Z0ZPWbcno1MEUHkPqHvv2upy6oVPz-g35s9vQ__&Key-Pair-Id=APKAJ62UNSBCMEIPV4HA","level":"info","message":"Input_Image_Url","timestamp":"2021-09-27 09:20:02","ms":"+17s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","imageUrl":"https://dl-media.viber.com/4/media/2/short/any/sig/image/0x0/45a7/ce87a2df8ba94be1bde3e56498bab5adbd4c6bc476126e9b3a6c9746228145a7.jpg?Expires=1632727209&Signature=IXYBVYaSGPiMwijbspcrNxG6hg61C6lB~ix3vb1ESedXUrjK6wIHjtgWSqQkJNSvHpov4Mctk1eaFq-cW6~CdWNk5zHiCGOngi-M~cQ8KuumtH03QZb1RelvUu3UV-u4dmiEx5SxJWaHtuqQkYZF2kc8R7ElDwewqPuc~T6G7NfeOYdPpGjsU1tZanuKL78ys4umqr~LkbTvhVxvkoYKXVGjJy3x-2bybbXit6Dy9lU6gMXKEd6WU5T4WAcQ2mdSuzYXAFT10oRVnm1XEtwBCwOYX0e2f5zhogHDhyhwtiySzWi5z5HSPbtK6VrKey~GXvD9SFR2YkDWfHEQDuAvIQ__&Key-Pair-Id=APKAJ62UNSBCMEIPV4HA","level":"info","message":"Input_Image_Url","timestamp":"2021-09-27 09:20:11","ms":"+8s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Célibataire","level":"info","message":"Input_Message","timestamp":"2021-09-27 09:20:14","ms":"+3s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Antsarafantsika","level":"info","message":"Input_Message","timestamp":"2021-09-27 09:20:32","ms":"+18s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Antananarivo","level":"info","message":"Input_Message","timestamp":"2021-09-27 09:20:35","ms":"+3s"}
+{"message":"InputAgenceOnlineSubscriptionChain","level":"silly","service":"bot-service","timestamp":"2021-09-27 09:20:35","ms":"+26ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"1","level":"info","message":"Input_Message","timestamp":"2021-09-27 09:20:39","ms":"+4s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"0347941481","level":"info","message":"Input_Message","timestamp":"2021-09-27 09:20:45","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Dev","level":"info","message":"Input_Message","timestamp":"2021-09-27 09:20:51","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"ACCEPTER","level":"info","message":"Input_Payload","timestamp":"2021-09-27 09:20:54","ms":"+3s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-27 09:29:48","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-27 09:29:48","ms":"+54ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-27 09:29:48","ms":"+4ms"}
+{"message":"++++ HOST       : https://e853-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-27 09:29:48","ms":"+5ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-27 09:29:48","ms":"+5ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-27 09:29:53","ms":"+5s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-27 09:29:53","ms":"+3ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Créer votre compte","level":"info","message":"Input_Payload","timestamp":"2021-09-27 09:30:19","ms":"+26s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-27 09:48:51","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-27 09:48:51","ms":"+40ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-27 09:48:51","ms":"+10ms"}
+{"message":"++++ HOST       : https://e853-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-27 09:48:51","ms":"+6ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-27 09:48:51","ms":"+8ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-27 09:48:53","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-27 09:48:53","ms":"+8ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"1. Photo face de votre CIN","level":"info","message":"Input_Message","timestamp":"2021-09-27 09:49:09","ms":"+16s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Pas encore en compte","level":"info","message":"Input_Payload","timestamp":"2021-09-27 09:49:14","ms":"+5s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Créer votre compte","level":"info","message":"Input_Payload","timestamp":"2021-09-27 09:49:22","ms":"+8s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","imageUrl":"https://dl-media.viber.com/4/media/2/short/any/sig/image/0x0/6ca9/1a94317250b049559de2ba087ec9ba606dcaea3a5663661bbbd601d6b68c6ca9.jpg?Expires=1632728974&Signature=cojyK6no3Jrm0tud~-owVn~jfvRGEPJddrP5bV3uuNcrAWCbRFCllLZhPDXSBEc~mo1U2MfXPPcjydaCOrcmc1Kh7ZDJwdWJ6XJK2KGw47JSf17ljxlg~EBOMtM1xId1886AKrE1JshbcUER6M-BkXSk1a4cSRMRcyCg-ZiQ9qa5tFJHziDvVbUMSXV77WqzRvo7n5HWqInQR8VtjsmDYRb-Xx3~dET26mg~kt~D-zx~b79Q0zoflPfiKe-ffmvEFe3aQt9M0Z7wbhXXxIuqKrrTC9vSPYksAb~Olt1McVsuiihO~awp0IBCRr3084QUDGK8oHJaxpY3xE62~7q5Dg__&Key-Pair-Id=APKAJ62UNSBCMEIPV4HA","level":"info","message":"Input_Image_Url","timestamp":"2021-09-27 09:49:35","ms":"+13s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","imageUrl":"https://dl-media.viber.com/4/media/2/short/any/sig/image/0x0/b0c8/757e844d5ebdd59e42ccc231d19d5ecf8eb8e7aaf6eb178e4d2b7cdb6518b0c8.jpg?Expires=1632728979&Signature=PYqc63KvvDA4thru9~JKQ50CQjNdOAsPcW-zMRw9keqDiP3~QzpRi3~Jmq-SPcK9K-akCPPq~xEEYcHafmaa0YB95eYr48KdOaa2XNZKKQmtLXVXLbnxnMBKxMrS7kaTqXzLQsrNDOXJpOSerKftZMRaTA6l07AszMv0leurn3KHV8Zn8if0saajCxWa2rNWaAyhMlEhsH-TAljXT0jc84cxzwVEamR-n7yRNaBWETBqhG1wprTQXj-ND8lU96YHugsf69V4lFX0jpxo9m4J8B692pnEPZzGwVMK~muH22LVthzouK6AWCupeEwXZ5Ck9v2reu6vj2yO72RivmyadA__&Key-Pair-Id=APKAJ62UNSBCMEIPV4HA","level":"info","message":"Input_Image_Url","timestamp":"2021-09-27 09:49:40","ms":"+5s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","imageUrl":"https://dl-media.viber.com/4/media/2/short/any/sig/image/0x0/a528/1f624b3f54eb66d2925bdf5b9adb81a04bf324efa837ea5ddc11f28dd03ea528.jpg?Expires=1632728988&Signature=UoWOTM7QYv-HJlvNGJAj1NyVv3cplrqkEEExMaH8qsbFjhkZzVwvIDQQVl3sIOrchsqWhQCkMazPd1MR9KJDs8Z4K8s-bJhK3QcQiPCtBXYUqoGcqL9ad4zmlbWmxmIlH3XQCIe2rEiJMbXDJWmNGKZutVEFxSs7G3epgiXwiAcntzBvrZZIp9eX8epMHXJZ5wI8kJUpZpc4cD83ExnjYY1WIFUZv2oiVsXkZasNr2CLBY6N4tPr95KAlRWurYqPTOsyJHOhnWsayYclVX7h-XM8lVcJAvlDr2Cghpre21-UBARhqVeS1kFeFgCcLIfcqGqoMYoaGZsHTckv6N4fDA__&Key-Pair-Id=APKAJ62UNSBCMEIPV4HA","level":"info","message":"Input_Image_Url","timestamp":"2021-09-27 09:49:49","ms":"+9s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Célibataire","level":"info","message":"Input_Message","timestamp":"2021-09-27 09:49:53","ms":"+4s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Adresse","level":"info","message":"Input_Message","timestamp":"2021-09-27 09:50:01","ms":"+8s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Antananarivo","level":"info","message":"Input_Message","timestamp":"2021-09-27 09:50:05","ms":"+4s"}
+{"message":"InputAgenceOnlineSubscriptionChain","level":"silly","service":"bot-service","timestamp":"2021-09-27 09:50:05","ms":"+29ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"1","level":"info","message":"Input_Message","timestamp":"2021-09-27 09:50:09","ms":"+4s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"0347941481","level":"info","message":"Input_Message","timestamp":"2021-09-27 09:50:15","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"dev","level":"info","message":"Input_Message","timestamp":"2021-09-27 09:50:33","ms":"+18s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"ACCEPTER","level":"info","message":"Input_Payload","timestamp":"2021-09-27 09:50:39","ms":"+6s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-27 09:52:52","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-27 09:52:52","ms":"+34ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-27 09:52:52","ms":"+8ms"}
+{"message":"++++ HOST       : https://e853-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-27 09:52:52","ms":"+7ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-27 09:52:52","ms":"+6ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-27 09:52:54","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-27 09:52:54","ms":"+2ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-27 09:58:52","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-27 09:58:52","ms":"+84ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-27 09:58:52","ms":"+37ms"}
+{"message":"++++ HOST       : https://e853-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-27 09:58:52","ms":"+17ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-27 09:58:52","ms":"+9ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-27 09:58:54","ms":"+3s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-27 09:58:54","ms":"+3ms"}
+{"service":"bot-service","Params":{"id":"blured-blue-white-bg.jpg"},"level":"info","message":"Request IMAGE","timestamp":"2021-09-27 09:59:18","ms":"+24s"}
+{"service":"bot-service","imagePath":"Image Not Found","level":"info","message":"controlleur image","timestamp":"2021-09-27 09:59:18","ms":"+12ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-27 10:04:56","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-27 10:04:56","ms":"+59ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-27 10:04:56","ms":"+16ms"}
+{"message":"++++ HOST       : https://e853-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-27 10:04:56","ms":"+9ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-27 10:04:56","ms":"+22ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-27 10:04:58","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-27 10:04:58","ms":"+7ms"}
+{"service":"bot-service","Params":{"id":"blured-blue-white-bg.jpg"},"level":"info","message":"Request IMAGE","timestamp":"2021-09-27 10:05:09","ms":"+11s"}
+{"service":"bot-service","imagePath":"Image Not Found","level":"info","message":"controlleur image","timestamp":"2021-09-27 10:05:09","ms":"+5ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-27 10:50:52","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-27 10:50:52","ms":"+20ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-27 10:50:52","ms":"+9ms"}
+{"message":"++++ HOST       : https://e853-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-27 10:50:52","ms":"+10ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-27 10:50:52","ms":"+12ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-27 10:50:55","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-27 10:50:55","ms":"+6ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-27 11:44:45","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-27 11:44:45","ms":"+16ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-27 11:44:45","ms":"+9ms"}
+{"message":"++++ HOST       : https://e853-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-27 11:44:45","ms":"+9ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-27 11:44:45","ms":"+8ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-27 11:44:47","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-27 11:44:47","ms":"+1ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-27 11:50:33","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-27 11:50:33","ms":"+10ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-27 11:50:33","ms":"+4ms"}
+{"message":"++++ HOST       : https://e853-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-27 11:50:33","ms":"+3ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-27 11:50:33","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-27 11:50:35","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-27 11:50:35","ms":"+3ms"}

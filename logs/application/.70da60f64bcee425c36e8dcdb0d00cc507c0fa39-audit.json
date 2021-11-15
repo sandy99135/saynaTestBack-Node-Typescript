@@ -1,0 +1,49 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\logs\\application\\.70da60f64bcee425c36e8dcdb0d00cc507c0fa39-audit.json",
+    "files": [
+        {
+            "date": 1631627389200,
+            "name": "D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\logs\\application\\application-2021-09-14.log",
+            "hash": "ccb043e7a1b9444b43b3cdba2d132255"
+        },
+        {
+            "date": 1631690588599,
+            "name": "D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\logs\\application\\application-2021-09-15.log",
+            "hash": "3e8aa4f08f0e60643c835305f780e8e4"
+        },
+        {
+            "date": 1631770992368,
+            "name": "D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\logs\\application\\application-2021-09-16.log",
+            "hash": "f40344e25c27ccd7b9afaf1e55807127"
+        },
+        {
+            "date": 1632115419609,
+            "name": "D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\logs\\application\\application-2021-09-20.log",
+            "hash": "34fd045b733fd6bd7974142d91dfa59b"
+        },
+        {
+            "date": 1632294259633,
+            "name": "D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\logs\\application\\application-2021-09-22.log",
+            "hash": "9ec0915e02a273fd87bb987c79ed9fba"
+        },
+        {
+            "date": 1632374540260,
+            "name": "D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\logs\\application\\application-2021-09-23.log",
+            "hash": "fdfa1d53b94f5f4725d3eed10e0afe45"
+        },
+        {
+            "date": 1632464652330,
+            "name": "D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\logs\\application\\application-2021-09-24.log",
+            "hash": "f6bb8775933bdecbe72dd20f6639b71c"
+        },
+        {
+            "date": 1632720946476,
+            "name": "D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\logs\\application\\application-2021-09-27.log",
+            "hash": "6485ee97d2a3cb9076a75e1259e4607f"
+        }
+    ]
+}

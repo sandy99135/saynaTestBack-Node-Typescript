@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\logs\\application\\.7d8ff1705bc4650194a131d646599f777246d917-audit.json",
+    "files": [
+        {
+            "date": 1631253929025,
+            "name": "D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\logs\\application\\application-2021-09-10.log",
+            "hash": "29173fca701d60efc209a88744be4a45"
+        },
+        {
+            "date": 1631528844813,
+            "name": "D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\logs\\application\\application-2021-09-13.log",
+            "hash": "565e5447f907394e3f4d5854319e6624"
+        }
+    ]
+}

@@ -1,0 +1,830 @@
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 08:43:13","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 08:43:13","ms":"+461ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 08:43:13","ms":"+2ms"}
+{"message":"++++ HOST       : https://a514-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 08:43:13","ms":"+1ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 08:43:13","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 08:43:17","ms":"+4s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 08:43:17","ms":"+4ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 08:55:43","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 08:55:43","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 08:55:43","ms":"+1ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 08:55:43","ms":"+1ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 08:55:43","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 08:55:47","ms":"+4s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 08:55:47","ms":"+1ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:01:02","ms":"+5m"}
+{"service":"bot-service","Error":{"code":"ECONNRESET"},"level":"error","message":"Unable to send Sender Action","timestamp":"2021-09-16 09:01:04","ms":"+2s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:01:46","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:01:46","ms":"+7ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:01:46","ms":"+2ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:01:46","ms":"+1ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:01:46","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 09:01:47","ms":"+806ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 09:01:47","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:08:34","ms":"+7m"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:10:57","ms":"+2m"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 09:11:07","ms":"+10s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 09:11:09","ms":"+3s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 09:11:10","ms":"+894ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:11:31","ms":"+21s"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:23:15","ms":"+12m"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:26:43","ms":"+3m"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:28:17","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:28:17","ms":"+6ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:28:17","ms":"+1ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:28:17","ms":"+1ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:28:17","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 09:28:18","ms":"+1s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 09:28:18","ms":"+2ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:28:35","ms":"+17s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 09:28:49","ms":"+14s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 09:28:52","ms":"+3s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 09:28:53","ms":"+863ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:29:04","ms":"+11s"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:33:01","ms":"+4m"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:33:35","ms":"+33s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:34:23","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:34:23","ms":"+7ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:34:23","ms":"+2ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:34:23","ms":"+2ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:34:23","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 09:34:24","ms":"+597ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 09:34:24","ms":"+1ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:34:36","ms":"+13s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 09:34:54","ms":"+18s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 09:34:57","ms":"+3s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 09:34:59","ms":"+1s"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:35:13","ms":"+15s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:40:35","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:40:36","ms":"+267ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:40:36","ms":"+296ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:40:36","ms":"+4ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:40:36","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 09:40:39","ms":"+3s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 09:40:39","ms":"+11ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:40:50","ms":"+11s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:41:46","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:41:46","ms":"+395ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:41:47","ms":"+45ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:41:47","ms":"+22ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:41:47","ms":"+6ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 09:41:49","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 09:41:49","ms":"+4ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:43:31","ms":"+2m"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 09:43:41","ms":"+10s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 09:43:43","ms":"+2s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 09:43:44","ms":"+795ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:43:44","ms":"+785ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:44:26","ms":"+42s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:48:32","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:48:32","ms":"+269ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:48:32","ms":"+32ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:48:33","ms":"+22ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:48:33","ms":"+11ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 09:48:35","ms":"+3s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 09:48:35","ms":"+14ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:49:13","ms":"+38s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 09:49:20","ms":"+8s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 09:49:23","ms":"+2s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 09:49:23","ms":"+826ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:50:13","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:50:13","ms":"+757ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:50:13","ms":"+7ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:50:13","ms":"+4ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 09:50:13","ms":"+3ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 09:50:15","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 09:50:15","ms":"+12ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:50:40","ms":"+24s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 09:50:50","ms":"+11s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 09:50:53","ms":"+3s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 09:50:55","ms":"+1s"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:51:20","ms":"+25s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at HandleResponseReactivateChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\re-activate-client\\handle-response-reactivate.chain.js:16:122)\n    at GetPseudoChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:13:14)\n    at SendRequestReactivateChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at SendRequestReactivateChain.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api\\send-request-reactivate.chain.js:20:22)\n    at Request._callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\api-middlware.js:59:17)\n    at Request.self.callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)\n    at Request.emit (events.js:210:5)","timestamp":"2021-09-16 09:51:41","ms":"+21s"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:53:09","ms":"+1m"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 09:53:23","ms":"+14s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 09:53:26","ms":"+3s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 09:53:27","ms":"+1s"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 09:53:33","ms":"+6s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at HandleResponseReactivateChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\re-activate-client\\handle-response-reactivate.chain.js:16:122)\n    at GetPseudoChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:13:14)\n    at SendRequestReactivateChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at SendRequestReactivateChain.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api\\send-request-reactivate.chain.js:20:22)\n    at Request._callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\api-middlware.js:59:17)\n    at Request.self.callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)\n    at Request.emit (events.js:210:5)","timestamp":"2021-09-16 09:53:52","ms":"+19s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:02:57","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:02:57","ms":"+262ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:02:57","ms":"+11ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:02:57","ms":"+23ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:02:57","ms":"+8ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 10:02:59","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 10:02:59","ms":"+7ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 10:04:00","ms":"+1m"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:11:37","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:11:38","ms":"+107ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:11:38","ms":"+11ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:11:38","ms":"+8ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:11:38","ms":"+15ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 10:11:39","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 10:11:39","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 10:12:37","ms":"+58s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 10:12:47","ms":"+10s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 10:12:50","ms":"+3s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 10:12:52","ms":"+2s"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 10:13:05","ms":"+13s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at HandleResponseReactivateChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\re-activate-client\\handle-response-reactivate.chain.js:17:122)\n    at GetPseudoChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:13:14)\n    at SendRequestReactivateChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at SendRequestReactivateChain.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api\\send-request-reactivate.chain.js:20:22)\n    at Request._callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\api-middlware.js:59:17)\n    at Request.self.callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)\n    at Request.emit (events.js:210:5)","timestamp":"2021-09-16 10:13:29","ms":"+24s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:23:17","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:23:17","ms":"+59ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:23:17","ms":"+22ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:23:17","ms":"+11ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:23:17","ms":"+12ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 10:23:19","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 10:23:19","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 10:23:57","ms":"+38s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 10:24:05","ms":"+8s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 10:24:08","ms":"+3s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 10:24:10","ms":"+2s"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 10:24:15","ms":"+6s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at HandleResponseReactivateChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\re-activate-client\\handle-response-reactivate.chain.js:17:122)\n    at GetPseudoChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:13:14)\n    at SendRequestReactivateChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at SendRequestReactivateChain.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api\\send-request-reactivate.chain.js:20:22)\n    at Request._callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\api-middlware.js:59:17)\n    at Request.self.callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)\n    at Request.emit (events.js:210:5)","timestamp":"2021-09-16 10:24:32","ms":"+17s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:29:50","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:29:51","ms":"+138ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:29:51","ms":"+16ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:29:51","ms":"+9ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:29:51","ms":"+38ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 10:29:52","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 10:29:52","ms":"+4ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 10:30:19","ms":"+27s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 10:30:31","ms":"+12s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 10:30:34","ms":"+3s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 10:30:36","ms":"+1s"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 10:30:54","ms":"+19s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at HandleResponseReactivateChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\re-activate-client\\handle-response-reactivate.chain.js:17:122)\n    at GetPseudoChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:13:14)\n    at SendRequestReactivateChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at SendRequestReactivateChain.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api\\send-request-reactivate.chain.js:20:22)\n    at Request._callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\api-middlware.js:59:17)\n    at Request.self.callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)\n    at Request.emit (events.js:210:5)","timestamp":"2021-09-16 10:31:13","ms":"+19s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:38:24","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:38:25","ms":"+42ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:38:25","ms":"+10ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:38:25","ms":"+9ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 10:38:25","ms":"+9ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 10:38:27","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 10:38:27","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 10:39:42","ms":"+1m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 10:42:12","ms":"+3m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 10:57:20","ms":"+15m"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 10:57:20","ms":"+64ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 10:57:22","ms":"+2s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 10:57:49","ms":"+27s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at HandleResponseReactivateChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\re-activate-client\\handle-response-reactivate.chain.js:17:122)\n    at GetPseudoChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:14:18)\n    at SendRequestReactivateChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at SendRequestReactivateChain.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api\\send-request-reactivate.chain.js:20:22)\n    at Request._callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\api-middlware.js:59:17)\n    at Request.self.callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)\n    at Request.emit (events.js:210:5)","timestamp":"2021-09-16 11:08:52","ms":"+11m"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:10:20","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:10:20","ms":"+12ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:10:20","ms":"+3ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:10:20","ms":"+7ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:10:20","ms":"+4ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 11:10:22","ms":"+3s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 11:10:22","ms":"+7ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 11:21:49","ms":"+11m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 11:23:21","ms":"+2m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 11:23:32","ms":"+11s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 11:23:32","ms":"+36ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 11:23:33","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 11:23:55","ms":"+22s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at HandleResponseReactivateChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\re-activate-client\\handle-response-reactivate.chain.js:17:122)\n    at GetPseudoChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:14:18)\n    at SendRequestReactivateChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at SendRequestReactivateChain.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api\\send-request-reactivate.chain.js:20:22)\n    at Request._callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\api-middlware.js:59:17)\n    at Request.self.callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)\n    at Request.emit (events.js:210:5)","timestamp":"2021-09-16 11:24:13","ms":"+18s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:26:55","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:26:55","ms":"+80ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:26:55","ms":"+21ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:26:55","ms":"+20ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:26:55","ms":"+8ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 11:26:57","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 11:26:57","ms":"+3ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 11:27:57","ms":"+60s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 11:28:04","ms":"+7s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 11:28:04","ms":"+48ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 11:28:05","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 11:28:10","ms":"+5s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at HandleResponseReactivateChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\re-activate-client\\handle-response-reactivate.chain.js:17:122)\n    at GetPseudoChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:14:18)\n    at SendRequestReactivateChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at SendRequestReactivateChain.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api\\send-request-reactivate.chain.js:20:22)\n    at Request._callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\api-middlware.js:59:17)\n    at Request.self.callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)\n    at Request.emit (events.js:210:5)","timestamp":"2021-09-16 11:28:21","ms":"+11s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:33:04","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:33:04","ms":"+53ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:33:04","ms":"+4ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:33:04","ms":"+7ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:33:04","ms":"+4ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 11:33:06","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 11:33:06","ms":"+3ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 11:33:07","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 11:33:11","ms":"+4s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 11:33:11","ms":"+49ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 11:33:13","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 11:33:27","ms":"+14s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at HandleResponseReactivateChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\re-activate-client\\handle-response-reactivate.chain.js:17:122)\n    at GetPseudoChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:15:18)\n    at SendRequestReactivateChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at SendRequestReactivateChain.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api\\send-request-reactivate.chain.js:20:22)\n    at Request._callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\api-middlware.js:59:17)\n    at Request.self.callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)\n    at Request.emit (events.js:210:5)","timestamp":"2021-09-16 11:34:24","ms":"+57s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:38:02","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:38:02","ms":"+70ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:38:02","ms":"+9ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:38:02","ms":"+12ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:38:02","ms":"+7ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 11:38:05","ms":"+3s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 11:38:05","ms":"+4ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 11:38:10","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 11:38:25","ms":"+14s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 11:38:28","ms":"+4s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 11:38:28","ms":"+34ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 11:38:30","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 11:38:34","ms":"+5s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at HandleResponseReactivateChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\re-activate-client\\handle-response-reactivate.chain.js:17:122)\n    at GetPseudoChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:15:18)\n    at SendRequestReactivateChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at SendRequestReactivateChain.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api\\send-request-reactivate.chain.js:20:22)\n    at Request._callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\api-middlware.js:59:17)\n    at Request.self.callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)\n    at Request.emit (events.js:210:5)","timestamp":"2021-09-16 11:38:45","ms":"+11s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:40:46","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:40:46","ms":"+180ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:40:46","ms":"+227ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:40:46","ms":"+17ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:40:46","ms":"+20ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 11:40:49","ms":"+3s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 11:40:49","ms":"+4ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 11:40:55","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 11:40:59","ms":"+4s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 11:40:59","ms":"+57ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 11:41:00","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 11:41:05","ms":"+4s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 11:49:14","ms":"+8m"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:49:35","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:49:35","ms":"+107ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:49:35","ms":"+21ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:49:35","ms":"+29ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:49:35","ms":"+167ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 11:49:38","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 11:49:38","ms":"+3ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 11:49:39","ms":"+2s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 11:49:39","ms":"+76ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 11:49:41","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 11:49:45","ms":"+4s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:51:40","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:51:40","ms":"+59ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:51:40","ms":"+38ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:51:40","ms":"+11ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:51:40","ms":"+8ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 11:51:42","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 11:51:42","ms":"+2ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 11:51:49","ms":"+7s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 11:51:55","ms":"+6s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 11:51:55","ms":"+37ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 11:51:57","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 11:52:02","ms":"+5s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:56:48","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:56:48","ms":"+98ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:56:48","ms":"+21ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:56:48","ms":"+4ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 11:56:48","ms":"+5ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 11:56:51","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 11:56:51","ms":"+3ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 11:56:52","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 11:57:02","ms":"+10s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 11:57:02","ms":"+44ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 11:57:04","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 11:57:10","ms":"+7s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 12:01:44","ms":"+5m"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:13:05","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:13:06","ms":"+81ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:13:06","ms":"+6ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:13:06","ms":"+2ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:13:06","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 13:13:08","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 13:13:08","ms":"+7ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 13:13:10","ms":"+2s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:36:32","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:36:32","ms":"+10ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:36:32","ms":"+5ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:36:32","ms":"+7ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:36:32","ms":"+21ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 13:36:35","ms":"+3s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 13:36:35","ms":"+3ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 13:36:48","ms":"+13s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 13:36:52","ms":"+5s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 13:36:52","ms":"+35ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 13:36:53","ms":"+926ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 13:37:15","ms":"+21s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:42:31","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:42:31","ms":"+76ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:42:31","ms":"+7ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:42:31","ms":"+14ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:42:31","ms":"+12ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 13:42:33","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 13:42:33","ms":"+3ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 13:42:47","ms":"+15s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 13:43:20","ms":"+33s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 13:43:24","ms":"+4s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 13:43:24","ms":"+37ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 13:43:26","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 13:43:41","ms":"+15s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:47:22","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:47:22","ms":"+36ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:47:22","ms":"+6ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:47:22","ms":"+6ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:47:22","ms":"+4ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 13:47:24","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 13:47:24","ms":"+6ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 13:47:32","ms":"+8s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 13:47:36","ms":"+4s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 13:47:36","ms":"+64ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 13:47:37","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 13:47:41","ms":"+4s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:54:30","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:54:31","ms":"+698ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:54:31","ms":"+122ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:54:31","ms":"+2ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 13:54:31","ms":"+3ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 13:54:31","ms":"+665ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 13:54:31","ms":"+2ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 13:55:00","ms":"+29s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 13:56:11","ms":"+1m"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 13:56:11","ms":"+68ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 13:56:12","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 13:57:41","ms":"+1m"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 14:03:39","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 14:03:39","ms":"+82ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 14:03:39","ms":"+10ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 14:03:39","ms":"+9ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 14:03:39","ms":"+7ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 14:03:41","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 14:03:41","ms":"+3ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 14:04:40","ms":"+58s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 14:04:44","ms":"+4s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 14:04:44","ms":"+45ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 14:04:45","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 14:04:58","ms":"+13s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 14:47:13","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 14:47:14","ms":"+183ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 14:47:14","ms":"+12ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 14:47:14","ms":"+14ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 14:47:14","ms":"+8ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 14:47:16","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 14:47:16","ms":"+3ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 14:47:22","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 14:47:41","ms":"+19s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 14:47:41","ms":"+37ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 14:47:42","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 14:47:52","ms":"+10s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 14:51:10","ms":"+3m"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 14:51:53","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 14:51:53","ms":"+33ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 14:51:53","ms":"+11ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 14:51:53","ms":"+5ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 14:51:54","ms":"+3ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 14:51:55","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 14:51:55","ms":"+5ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 14:52:42","ms":"+47s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 14:52:45","ms":"+3s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 14:52:45","ms":"+43ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 14:52:47","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 14:52:58","ms":"+11s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 14:56:41","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 14:56:41","ms":"+36ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 14:56:41","ms":"+5ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 14:56:41","ms":"+6ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 14:56:41","ms":"+7ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 14:56:42","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 14:56:42","ms":"+3ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 14:57:01","ms":"+19s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 14:57:05","ms":"+4s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 14:57:05","ms":"+43ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 14:57:07","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 14:57:16","ms":"+9s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:01:17","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:01:17","ms":"+82ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:01:17","ms":"+2ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:01:17","ms":"+1ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:01:17","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 15:01:18","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 15:01:18","ms":"+5ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 15:01:21","ms":"+3s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 15:01:27","ms":"+6s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 15:01:28","ms":"+44ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 15:01:29","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 15:01:52","ms":"+24s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:16:38","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:16:39","ms":"+106ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:16:39","ms":"+23ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:16:39","ms":"+8ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:16:39","ms":"+108ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 15:16:42","ms":"+3s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 15:16:42","ms":"+4ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 15:23:09","ms":"+6m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 15:23:21","ms":"+12s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 15:23:25","ms":"+3s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 15:23:25","ms":"+35ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 15:23:26","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 15:23:37","ms":"+11s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 15:29:35","ms":"+6m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 15:29:54","ms":"+20s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 15:29:54","ms":"+45ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 15:29:56","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 15:30:11","ms":"+16s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:34:17","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:34:18","ms":"+555ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:34:18","ms":"+45ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:34:18","ms":"+12ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:34:18","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 15:34:20","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 15:34:20","ms":"+3ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 15:34:23","ms":"+4s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 15:34:31","ms":"+7s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 15:34:31","ms":"+60ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 15:34:32","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 15:34:40","ms":"+8s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:36:39","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:36:39","ms":"+39ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:36:39","ms":"+9ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:36:39","ms":"+20ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:36:39","ms":"+10ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 15:36:41","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 15:36:41","ms":"+3ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 15:36:41","ms":"+243ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 15:36:45","ms":"+4s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 15:36:45","ms":"+47ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 15:36:46","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 15:37:11","ms":"+25s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:43:55","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:43:55","ms":"+47ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:43:55","ms":"+21ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:43:55","ms":"+35ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:43:55","ms":"+9ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 15:43:57","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 15:43:57","ms":"+2ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 15:44:05","ms":"+8s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 15:44:15","ms":"+9s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 15:44:19","ms":"+4s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 15:44:19","ms":"+58ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 15:44:21","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 15:44:29","ms":"+9s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at HandleResponseReactivateChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\re-activate-client\\handle-response-reactivate.chain.js:15:55)\n    at GetPseudoChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:16:18)\n    at SendRequestReactivateChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at SendRequestReactivateChain.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api\\send-request-reactivate.chain.js:21:22)\n    at Request._callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\api-middlware.js:59:17)\n    at Request.self.callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)\n    at Request.emit (events.js:210:5)","timestamp":"2021-09-16 15:44:47","ms":"+18s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:47:51","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:47:52","ms":"+284ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:47:52","ms":"+22ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:47:52","ms":"+16ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:47:52","ms":"+9ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 15:47:53","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 15:47:53","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 15:48:26","ms":"+33s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 15:48:37","ms":"+11s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 15:48:39","ms":"+2s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 15:48:41","ms":"+1s"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 15:48:57","ms":"+16s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'replace' of null","stack":"TypeError: Cannot read property 'replace' of null\n    at PinValidator.isValid (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\input-validators\\pin.validator.js:5:25)\n    at ValidationPinReactivateClientChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\re-activate-client\\validation-pin-reactivate-client.chain.js:22:43)\n    at BotSenderActionChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at Timeout._onTimeout (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\bot-sender-action.chain.js:14:26)\n    at listOnTimeout (internal/timers.js:531:17)\n    at processTimers (internal/timers.js:475:7)","timestamp":"2021-09-16 15:49:16","ms":"+19s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:54:28","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:54:28","ms":"+195ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:54:28","ms":"+19ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:54:28","ms":"+12ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:54:28","ms":"+7ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 15:54:31","ms":"+3s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 15:54:31","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 15:54:56","ms":"+25s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 15:55:02","ms":"+6s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 15:55:04","ms":"+2s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 15:55:05","ms":"+798ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 15:55:14","ms":"+9s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at HandleResponseReactivateChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\re-activate-client\\handle-response-reactivate.chain.js:15:55)\n    at GetPseudoChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:16:18)\n    at SendRequestReactivateChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at SendRequestReactivateChain.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api\\send-request-reactivate.chain.js:21:22)\n    at Request._callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\api-middlware.js:59:17)\n    at Request.self.callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)\n    at Request.emit (events.js:210:5)","timestamp":"2021-09-16 15:55:39","ms":"+25s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:59:12","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:59:12","ms":"+60ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:59:12","ms":"+23ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:59:12","ms":"+13ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 15:59:12","ms":"+7ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 15:59:14","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 15:59:14","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 15:59:29","ms":"+15s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 15:59:37","ms":"+8s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 15:59:41","ms":"+4s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 15:59:42","ms":"+2s"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 15:59:48","ms":"+5s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at HandleResponseReactivateChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\re-activate-client\\handle-response-reactivate.chain.js:14:55)\n    at GetPseudoChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:16:18)\n    at SendRequestReactivateChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at SendRequestReactivateChain.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api\\send-request-reactivate.chain.js:21:22)\n    at Request._callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\api-middlware.js:59:17)\n    at Request.self.callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)\n    at Request.emit (events.js:210:5)","timestamp":"2021-09-16 16:00:06","ms":"+19s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:01:29","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:01:29","ms":"+31ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:01:29","ms":"+11ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:01:29","ms":"+9ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:01:29","ms":"+7ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 16:01:31","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 16:01:31","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:01:43","ms":"+12s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 16:01:50","ms":"+7s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:01:53","ms":"+3s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:01:55","ms":"+2s"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:02:02","ms":"+7s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at HandleResponseReactivateChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\re-activate-client\\handle-response-reactivate.chain.js:14:55)\n    at GetPseudoChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:16:18)\n    at SendRequestReactivateChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at SendRequestReactivateChain.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api\\send-request-reactivate.chain.js:21:22)\n    at Request._callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\api-middlware.js:59:17)\n    at Request.self.callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)\n    at Request.emit (events.js:210:5)","timestamp":"2021-09-16 16:02:19","ms":"+17s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:04:36","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:04:36","ms":"+40ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:04:36","ms":"+12ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:04:36","ms":"+13ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:04:36","ms":"+10ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 16:04:38","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 16:04:38","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:04:54","ms":"+16s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 16:05:02","ms":"+8s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:05:04","ms":"+2s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:05:05","ms":"+941ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:05:12","ms":"+7s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at HandleResponseReactivateChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\re-activate-client\\handle-response-reactivate.chain.js:14:55)\n    at GetPseudoChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:16:18)\n    at SendRequestReactivateChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at SendRequestReactivateChain.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api\\send-request-reactivate.chain.js:21:22)\n    at Request._callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\api-middlware.js:59:17)\n    at Request.self.callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)\n    at Request.emit (events.js:210:5)","timestamp":"2021-09-16 16:05:25","ms":"+13s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:07:40","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:07:40","ms":"+103ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:07:40","ms":"+99ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:07:40","ms":"+75ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:07:40","ms":"+50ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 16:07:41","ms":"+1s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 16:07:41","ms":"+2ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:07:49","ms":"+8s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 16:07:57","ms":"+8s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:08:01","ms":"+3s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:08:02","ms":"+1s"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:08:06","ms":"+4s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:10:17","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:10:17","ms":"+65ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:10:17","ms":"+14ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:10:17","ms":"+12ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:10:17","ms":"+7ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 16:10:20","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 16:10:20","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"ff","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:10:31","ms":"+11s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 16:10:38","ms":"+7s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:10:41","ms":"+3s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:10:43","ms":"+2s"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:10:48","ms":"+5s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:12:46","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:12:46","ms":"+163ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:12:46","ms":"+214ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:12:46","ms":"+207ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:12:46","ms":"+14ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 16:12:48","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 16:12:48","ms":"+4ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:12:53","ms":"+5s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 16:13:00","ms":"+7s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:13:03","ms":"+3s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:13:04","ms":"+1s"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:13:10","ms":"+6s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:16:02","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:16:02","ms":"+68ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:16:02","ms":"+23ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:16:02","ms":"+18ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:16:02","ms":"+10ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 16:16:03","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 16:16:03","ms":"+4ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:16:11","ms":"+8s"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:16:21","ms":"+10s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 16:16:27","ms":"+5s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:16:29","ms":"+2s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:16:30","ms":"+796ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:16:35","ms":"+5s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:19:09","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:19:09","ms":"+66ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:19:09","ms":"+11ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:19:09","ms":"+13ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:19:09","ms":"+7ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 16:19:11","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 16:19:11","ms":"+6ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:19:19","ms":"+8s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 16:19:28","ms":"+10s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:19:30","ms":"+2s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:19:31","ms":"+1s"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:19:37","ms":"+5s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:25:36","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:25:36","ms":"+61ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:25:36","ms":"+14ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:25:36","ms":"+34ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:25:36","ms":"+20ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 16:25:38","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 16:25:38","ms":"+6ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:25:44","ms":"+6s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 16:25:53","ms":"+9s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:25:56","ms":"+3s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:25:58","ms":"+1s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:29:06","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:29:06","ms":"+118ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:29:06","ms":"+7ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:29:06","ms":"+9ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:29:06","ms":"+4ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 16:29:08","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 16:29:08","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:29:27","ms":"+19s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 16:29:36","ms":"+9s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:29:38","ms":"+2s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:29:39","ms":"+898ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:30:00","ms":"+21s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:31:38","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:31:38","ms":"+57ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:31:38","ms":"+4ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:31:38","ms":"+7ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:31:38","ms":"+7ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 16:31:40","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 16:31:40","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"mm","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:31:55","ms":"+15s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 16:32:03","ms":"+8s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:32:06","ms":"+3s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:32:08","ms":"+1s"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:32:22","ms":"+14s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:36:04","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:36:04","ms":"+84ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:36:04","ms":"+38ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:36:04","ms":"+30ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:36:04","ms":"+8ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 16:36:06","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 16:36:06","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:36:19","ms":"+13s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 16:36:32","ms":"+13s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:36:34","ms":"+2s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:36:35","ms":"+912ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:36:38","ms":"+3s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:39:51","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:39:52","ms":"+643ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:39:52","ms":"+40ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:39:52","ms":"+19ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:39:52","ms":"+18ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 16:39:54","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 16:39:54","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:39:59","ms":"+5s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 16:40:05","ms":"+6s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:40:07","ms":"+2s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:40:08","ms":"+794ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:40:13","ms":"+5s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:44:17","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:44:17","ms":"+211ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:44:18","ms":"+300ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:44:18","ms":"+9ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:44:18","ms":"+8ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 16:44:20","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 16:44:20","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:44:27","ms":"+7s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 16:44:33","ms":"+6s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:44:35","ms":"+2s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:44:36","ms":"+881ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:44:42","ms":"+6s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at PinMenuChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\pin\\request-pin-menu.chain.js:27:159)\n    at ValidationClientCodeChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at ValidationClientCodeChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\re-activate-client\\validation-client-code.chain.js:27:22)\n    at BotSenderActionChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at Timeout._onTimeout (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\bot-sender-action.chain.js:14:26)\n    at listOnTimeout (internal/timers.js:531:17)\n    at processTimers (internal/timers.js:475:7)","timestamp":"2021-09-16 16:44:44","ms":"+2s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:46:50","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:46:50","ms":"+671ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:46:50","ms":"+40ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:46:50","ms":"+4ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:46:50","ms":"+6ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 16:46:52","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 16:46:52","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:50:30","ms":"+4m"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 16:50:44","ms":"+14s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:50:47","ms":"+3s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:50:49","ms":"+1s"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:53:19","ms":"+3m"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:55:07","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:55:08","ms":"+63ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:55:08","ms":"+16ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:55:08","ms":"+15ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 16:55:08","ms":"+10ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 16:55:09","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 16:55:09","ms":"+10ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 16:55:25","ms":"+16s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 16:55:37","ms":"+12s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:55:40","ms":"+3s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 16:55:42","ms":"+1s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:00:48","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:00:48","ms":"+37ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:00:48","ms":"+11ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:00:48","ms":"+17ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:00:48","ms":"+5ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 17:00:49","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 17:00:49","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:00:54","ms":"+5s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 17:01:03","ms":"+9s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:01:06","ms":"+3s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:01:08","ms":"+2s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:03:50","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:03:51","ms":"+239ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:03:51","ms":"+27ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:03:51","ms":"+11ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:03:51","ms":"+11ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 17:03:52","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 17:03:52","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:04:01","ms":"+9s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 17:04:10","ms":"+9s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:04:14","ms":"+3s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:04:15","ms":"+1s"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:05:09","ms":"+55s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:08:29","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:08:29","ms":"+203ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:08:29","ms":"+22ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:08:29","ms":"+24ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:08:29","ms":"+17ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 17:08:31","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 17:08:31","ms":"+4ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:08:32","ms":"+1s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 17:08:37","ms":"+6s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:08:39","ms":"+2s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:08:40","ms":"+789ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:08:54","ms":"+14s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:10:24","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:10:24","ms":"+41ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:10:24","ms":"+9ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:10:24","ms":"+6ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:10:24","ms":"+7ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 17:10:26","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 17:10:26","ms":"+4ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:10:29","ms":"+3s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 17:10:36","ms":"+7s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:10:38","ms":"+2s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:10:39","ms":"+796ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:10:49","ms":"+10s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at HandleResponseReactivateChain.executeProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\re-activate-client\\handle-response-reactivate.chain.js:14:55)\n    at GetPseudoChain.executeNextProcess (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:18:22)\n    at FacebookContext.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\social-medias\\facebook\\facebook-context.js:131:21)\n    at Request._callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\fb-middleware.js:78:17)\n    at Request.self.callback (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)\n    at Request.emit (events.js:210:5)\n    at IncomingMessage.<anonymous> (D:\\PROJECTS\\MYACCESS\\New folder\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1083:12)","timestamp":"2021-09-16 17:11:04","ms":"+15s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:11:51","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:11:51","ms":"+55ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:11:51","ms":"+13ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:11:51","ms":"+6ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:11:51","ms":"+8ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 17:11:53","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 17:11:53","ms":"+3ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:11:58","ms":"+4s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 17:12:13","ms":"+15s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:12:15","ms":"+2s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:12:17","ms":"+1s"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:12:22","ms":"+5s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:14:50","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:14:50","ms":"+24ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:14:50","ms":"+3ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:14:50","ms":"+2ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:14:50","ms":"+5ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 17:14:52","ms":"+1s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 17:14:52","ms":"+1ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:15:01","ms":"+9s"}
+{"service":"bot-service","sender":"3598183203594950","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 17:15:06","ms":"+6s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:15:08","ms":"+2s"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:15:09","ms":"+859ms"}
+{"service":"bot-service","sender":"3598183203594950","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:15:19","ms":"+10s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:16:05","ms":"+46s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 17:16:10","ms":"+5s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:16:10","ms":"+52ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:16:11","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:16:16","ms":"+5s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:18:24","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:18:24","ms":"+25ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:18:24","ms":"+16ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:18:24","ms":"+4ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:18:24","ms":"+4ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 17:18:26","ms":"+1s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 17:18:26","ms":"+4ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:18:28","ms":"+3s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 17:18:32","ms":"+4s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:18:32","ms":"+66ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:18:34","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:18:39","ms":"+5s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:24:15","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:24:15","ms":"+29ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:24:15","ms":"+7ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:24:15","ms":"+4ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:24:15","ms":"+4ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 17:24:17","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 17:24:17","ms":"+3ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:24:19","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 17:24:22","ms":"+3s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:24:22","ms":"+69ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:24:23","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:24:28","ms":"+5s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:27:03","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:27:03","ms":"+85ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:27:03","ms":"+11ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:27:03","ms":"+6ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:27:03","ms":"+11ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 17:27:06","ms":"+3s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 17:27:06","ms":"+9ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:27:11","ms":"+5s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 17:27:14","ms":"+3s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:27:14","ms":"+73ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:27:15","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:27:20","ms":"+5s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:29:23","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:29:23","ms":"+70ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:29:23","ms":"+11ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:29:23","ms":"+7ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:29:23","ms":"+7ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 17:29:25","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 17:29:25","ms":"+3ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:29:29","ms":"+5s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 17:29:35","ms":"+6s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:29:35","ms":"+55ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:29:36","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:29:44","ms":"+8s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:45:36","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:45:36","ms":"+30ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:45:36","ms":"+6ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:45:36","ms":"+20ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:45:36","ms":"+5ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 17:45:38","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 17:45:38","ms":"+6ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"HI","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:46:46","ms":"+1m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 17:46:55","ms":"+9s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:46:55","ms":"+79ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:46:56","ms":"+901ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:47:05","ms":"+9s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:50:27","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:50:27","ms":"+61ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:50:27","ms":"+10ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:50:27","ms":"+8ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 17:50:27","ms":"+18ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 17:50:29","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 17:50:29","ms":"+2ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:53:12","ms":"+3m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 17:53:18","ms":"+6s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:53:18","ms":"+62ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 17:53:19","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:53:29","ms":"+10s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 17:59:48","ms":"+6m"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-16 18:01:27","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-16 18:01:27","ms":"+26ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-16 18:01:27","ms":"+69ms"}
+{"message":"++++ HOST       : https://6a93-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-16 18:01:27","ms":"+14ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-16 18:01:27","ms":"+39ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-16 18:01:29","ms":"+2s"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-16 18:01:29","ms":"+6ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 18:01:39","ms":"+9s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-16 18:01:55","ms":"+16s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Activer myacces sur ce canal","level":"info","message":"Input_Payload","timestamp":"2021-09-16 18:01:58","ms":"+3s"}
+{"message":"** ForStartAccedeHisAccoutChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 18:01:58","ms":"+43ms"}
+{"message":"** InputClientCodeChain","level":"silly","service":"bot-service","timestamp":"2021-09-16 18:01:59","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"004000208209","level":"info","message":"Input_Message","timestamp":"2021-09-16 18:02:08","ms":"+9s"}

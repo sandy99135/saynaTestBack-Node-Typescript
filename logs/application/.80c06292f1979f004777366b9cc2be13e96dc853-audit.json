@@ -1,0 +1,24 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Abm\\MyAccès\\prod\\preprod_with_viber_flashloan\\MyAcces.bot\\logs\\application\\.80c06292f1979f004777366b9cc2be13e96dc853-audit.json",
+    "files": [
+        {
+            "date": 1626900461297,
+            "name": "D:\\Abm\\MyAccès\\prod\\preprod_with_viber_flashloan\\MyAcces.bot\\logs\\application\\application-2021-07-21.log",
+            "hash": "397d79fa6ed46bcb3dceb48a202140f5"
+        },
+        {
+            "date": 1626903486287,
+            "name": "D:\\Abm\\MyAccès\\prod\\preprod_with_viber_flashloan\\MyAcces.bot\\logs\\application\\application-2021-07-22.log",
+            "hash": "9633313204b859d315e745913afe7b26"
+        },
+        {
+            "date": 1627474267840,
+            "name": "D:\\Abm\\MyAccès\\prod\\preprod_with_viber_flashloan\\MyAcces.bot\\logs\\application\\application-2021-07-28.log",
+            "hash": "b47e4b699c0daf179e21e7f51deabc16"
+        }
+    ]
+}

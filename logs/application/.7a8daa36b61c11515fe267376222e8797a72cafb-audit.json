@@ -1,0 +1,39 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\MyAcces.Viber\\MyAcces.bot\\logs\\application\\.7a8daa36b61c11515fe267376222e8797a72cafb-audit.json",
+    "files": [
+        {
+            "date": 1629120646191,
+            "name": "D:\\MyAcces.Viber\\MyAcces.bot\\logs\\application\\application-2021-08-16.log",
+            "hash": "34fc245edf0924d62efe542be9f40cc8"
+        },
+        {
+            "date": 1629178775278,
+            "name": "D:\\MyAcces.Viber\\MyAcces.bot\\logs\\application\\application-2021-08-17.log",
+            "hash": "4129ddfbb8aa9b3e0453849868f3b33b"
+        },
+        {
+            "date": 1629279219623,
+            "name": "D:\\MyAcces.Viber\\MyAcces.bot\\logs\\application\\application-2021-08-18.log",
+            "hash": "135aba1fc9d9fd7cb3145c60ef6e04cd"
+        },
+        {
+            "date": 1629351772677,
+            "name": "D:\\MyAcces.Viber\\MyAcces.bot\\logs\\application\\application-2021-08-19.log",
+            "hash": "42d972387603cf2b9d94ff00ddf892a4"
+        },
+        {
+            "date": 1629439585585,
+            "name": "D:\\MyAcces.Viber\\MyAcces.bot\\logs\\application\\application-2021-08-20.log",
+            "hash": "329ced7dcd334efbb3a262dfc9b2c622"
+        },
+        {
+            "date": 1629697647975,
+            "name": "D:\\MyAcces.Viber\\MyAcces.bot\\logs\\application\\application-2021-08-23.log",
+            "hash": "409ad7a4f3a53f02833273a60be03041"
+        }
+    ]
+}

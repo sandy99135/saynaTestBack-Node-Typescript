@@ -1,0 +1,772 @@
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:05:29","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:05:29","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:05:29","ms":"+1ms"}
+{"message":"++++ HOST       : https://a30a-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:05:29","ms":"+0ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:05:29","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 09:05:29","ms":"+573ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 09:05:29","ms":"+1ms"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"coucou","level":"info","message":"Input_Message","timestamp":"2021-09-10 09:06:49","ms":"+1m"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:06:58","ms":"+8s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:07:04","ms":"+6s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 09:07:04","ms":"+6ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 09:07:04","ms":"+19ms"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:07:09","ms":"+4s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 09:09:39","ms":"+3m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 09:11:20","ms":"+2m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:11:32","ms":"+12s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:11:38","ms":"+6s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 09:11:38","ms":"+46ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 09:11:38","ms":"+36ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:11:44","ms":"+5s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Code oublié","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:11:49","ms":"+5s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Oui, je valide","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:11:57","ms":"+8s"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 09:15:54","ms":"+4m"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:16:02","ms":"+8s"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:16:06","ms":"+3s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 09:16:06","ms":"+21ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 09:16:06","ms":"+40ms"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:16:10","ms":"+4s"}
+{"service":"bot-service","sender":"LHfeL699YvQ7uaO2GFbWhg==","payload":"Code oublié","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:21:43","ms":"+6m"}
+{"service":"bot-service","sender":"LHfeL699YvQ7uaO2GFbWhg==","payload":"Oui, je valide","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:21:48","ms":"+5s"}
+{"service":"bot-service","sender":"LHfeL699YvQ7uaO2GFbWhg==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 09:24:40","ms":"+3m"}
+{"service":"bot-service","sender":"LHfeL699YvQ7uaO2GFbWhg==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:24:48","ms":"+8s"}
+{"service":"bot-service","sender":"LHfeL699YvQ7uaO2GFbWhg==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:24:58","ms":"+10s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 09:24:58","ms":"+67ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 09:24:58","ms":"+108ms"}
+{"service":"bot-service","sender":"LHfeL699YvQ7uaO2GFbWhg==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:25:06","ms":"+8s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:40:28","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:40:28","ms":"+4ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:40:28","ms":"+9ms"}
+{"message":"++++ HOST       : https://a2f9-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:40:28","ms":"+2ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:40:28","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 09:40:29","ms":"+464ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 09:40:29","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 09:40:45","ms":"+16s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 09:41:30","ms":"+45s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:41:36","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:41:41","ms":"+5s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 09:41:41","ms":"+9ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 09:41:41","ms":"+48ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:41:45","ms":"+4s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Code oublié","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:41:49","ms":"+4s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Oui, je valide","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:41:54","ms":"+4s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 09:42:36","ms":"+42s"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","text":"0","level":"info","message":"Input_Message","timestamp":"2021-09-10 09:42:40","ms":"+4s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:42:42","ms":"+3s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:42:47","ms":"+5s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 09:42:47","ms":"+10ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 09:42:47","ms":"+55ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:42:51","ms":"+4s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:46:38","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:46:38","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:46:38","ms":"+1ms"}
+{"message":"++++ HOST       : https://a2f9-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:46:38","ms":"+8ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:46:38","ms":"+3ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 09:46:38","ms":"+454ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 09:46:38","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 09:46:42","ms":"+4s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:46:48","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:46:52","ms":"+5s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 09:46:53","ms":"+54ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 09:46:53","ms":"+117ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:46:59","ms":"+6s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:48:48","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:48:48","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:48:48","ms":"+1ms"}
+{"message":"++++ HOST       : https://a2f9-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:48:48","ms":"+5ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:48:48","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 09:48:49","ms":"+484ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 09:48:49","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 09:48:52","ms":"+3s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:48:58","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:49:03","ms":"+5s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 09:49:03","ms":"+69ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 09:49:04","ms":"+127ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:49:09","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mini-relevé","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:49:17","ms":"+8s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:50:14","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:50:15","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:50:15","ms":"+1ms"}
+{"message":"++++ HOST       : https://a2f9-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:50:15","ms":"+1ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 09:50:15","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 09:50:15","ms":"+477ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 09:50:15","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 09:50:29","ms":"+14s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:50:35","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:50:42","ms":"+7s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 09:50:42","ms":"+79ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 09:50:42","ms":"+108ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"0","level":"info","message":"Input_Message","timestamp":"2021-09-10 09:50:54","ms":"+12s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:51:02","ms":"+8s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:51:07","ms":"+5s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 09:51:07","ms":"+64ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 09:51:07","ms":"+142ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 09:51:12","ms":"+5s"}
+{"service":"bot-service","sender":"2789694227751300","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 09:59:48","ms":"+9m"}
+{"service":"bot-service","sender":"2789694227751300","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:00:18","ms":"+31s"}
+{"service":"bot-service","sender":"2789694227751300","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:00:32","ms":"+14s"}
+{"service":"bot-service","sender":"2789694227751300","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:00:40","ms":"+8s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:00:40","ms":"+9ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:00:43","ms":"+2s"}
+{"service":"bot-service","sender":"2789694227751300","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:00:47","ms":"+5s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:05:00","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:05:00","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:05:00","ms":"+2ms"}
+{"message":"++++ HOST       : https://a2f9-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:05:00","ms":"+5ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:05:00","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 10:05:01","ms":"+478ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 10:05:01","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:05:04","ms":"+3s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:05:09","ms":"+5s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:05:14","ms":"+5s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:05:14","ms":"+85ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:05:14","ms":"+125ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:05:18","ms":"+4s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:07:41","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:07:41","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:07:41","ms":"+1ms"}
+{"message":"++++ HOST       : https://a2f9-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:07:41","ms":"+6ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:07:41","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 10:07:41","ms":"+479ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 10:07:41","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:08:06","ms":"+24s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:08:11","ms":"+5s"}
+{"service":"bot-service","sender":"LHfeL699YvQ7uaO2GFbWhg==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:08:28","ms":"+17s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:10:28","ms":"+2m"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:10:28","ms":"+43ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:10:28","ms":"+334ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mini-relevé","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:10:34","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Code oublié","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:10:45","ms":"+11s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Oui, je valide","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:10:53","ms":"+8s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:11:19","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:11:19","ms":"+4ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:11:19","ms":"+1ms"}
+{"message":"++++ HOST       : https://a2f9-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:11:19","ms":"+8ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:11:19","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 10:11:20","ms":"+470ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 10:11:20","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:11:26","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:11:37","ms":"+12s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:11:53","ms":"+16s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:11:53","ms":"+449ms"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:11:53","ms":"+13ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Vers un compte tiers","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:12:03","ms":"+10s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"1","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:16:17","ms":"+4m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Autre compte","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:16:27","ms":"+9s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"ABM","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:16:34","ms":"+7s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"00011000142110055840878","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:17:42","ms":"+1m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Koto","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:19:10","ms":"+1m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"2000","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:19:17","ms":"+7s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Loyer","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:19:27","ms":"+10s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Enregistrer","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:20:07","ms":"+40s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Lita","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:20:15","ms":"+8s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"VALIDER","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:20:22","ms":"+7s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:21:39","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:21:39","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:21:39","ms":"+1ms"}
+{"message":"++++ HOST       : https://a2f9-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:21:39","ms":"+1ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:21:39","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 10:21:39","ms":"+450ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 10:21:39","ms":"+2ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:22:03","ms":"+24s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:22:09","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:22:14","ms":"+5s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:22:14","ms":"+131ms"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:22:14","ms":"+2ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Vers un compte tiers","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:22:24","ms":"+9s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"1","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:23:41","ms":"+1m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Liste favoris","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:23:48","ms":"+7s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Lita","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:23:54","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"2000","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:24:05","ms":"+11s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Loyer","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:24:12","ms":"+8s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:27:04","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:27:04","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:27:04","ms":"+1ms"}
+{"message":"++++ HOST       : https://a2f9-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:27:04","ms":"+0ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:27:04","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 10:27:04","ms":"+492ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 10:27:04","ms":"+1ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:27:55","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:27:55","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:27:55","ms":"+0ms"}
+{"message":"++++ HOST       : https://a2f9-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:27:55","ms":"+9ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:27:55","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 10:27:55","ms":"+473ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 10:27:55","ms":"+2ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:27:59","ms":"+3s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:28:05","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:28:10","ms":"+5s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:28:10","ms":"+71ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:28:11","ms":"+121ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:28:14","ms":"+4s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:29:26","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:29:26","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:29:26","ms":"+1ms"}
+{"message":"++++ HOST       : https://a2f9-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:29:26","ms":"+0ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:29:26","ms":"+7ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 10:29:26","ms":"+449ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 10:29:26","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:29:29","ms":"+3s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:29:36","ms":"+7s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:29:57","ms":"+21s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:29:57","ms":"+69ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:29:58","ms":"+124ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:30:02","ms":"+4s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:33:52","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:33:52","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:33:52","ms":"+1ms"}
+{"message":"++++ HOST       : https://a2f9-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:33:52","ms":"+5ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:33:52","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 10:33:53","ms":"+455ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 10:33:53","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:33:58","ms":"+5s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:34:12","ms":"+14s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:34:12","ms":"+351ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:34:19","ms":"+7s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:34:19","ms":"+12ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:34:19","ms":"+55ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:34:22","ms":"+4s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:37:27","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:37:27","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:37:27","ms":"+1ms"}
+{"message":"++++ HOST       : https://a2f9-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:37:27","ms":"+6ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:37:27","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 10:37:27","ms":"+460ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 10:37:27","ms":"+2ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:37:41","ms":"+14s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:37:47","ms":"+5s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:37:51","ms":"+4s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:37:51","ms":"+70ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:37:51","ms":"+146ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:37:56","ms":"+4s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:51:43","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:51:43","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:51:43","ms":"+1ms"}
+{"message":"++++ HOST       : https://a2f9-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:51:43","ms":"+9ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:51:43","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 10:51:44","ms":"+463ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 10:51:44","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:51:47","ms":"+4s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:52:09","ms":"+22s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:52:14","ms":"+5s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:52:14","ms":"+8ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:52:14","ms":"+37ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:52:21","ms":"+7s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:53:37","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:53:37","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:53:37","ms":"+1ms"}
+{"message":"++++ HOST       : https://a2f9-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:53:37","ms":"+6ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:53:37","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 10:53:37","ms":"+476ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 10:53:37","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:53:42","ms":"+5s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:53:47","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:53:52","ms":"+5s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:53:52","ms":"+73ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:53:52","ms":"+139ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:54:02","ms":"+10s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:55:29","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:55:29","ms":"+6ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:55:29","ms":"+2ms"}
+{"message":"++++ HOST       : https://a2f9-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:55:29","ms":"+1ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:55:29","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 10:55:30","ms":"+484ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 10:55:30","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:55:36","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:55:46","ms":"+10s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:55:50","ms":"+4s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:55:50","ms":"+9ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 10:55:50","ms":"+38ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 10:55:54","ms":"+4s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:56:46","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:56:46","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:56:46","ms":"+1ms"}
+{"message":"++++ HOST       : https://a2f9-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:56:46","ms":"+9ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:56:46","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 10:56:47","ms":"+537ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 10:56:47","ms":"+2ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:56:51","ms":"+4s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:57:45","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:57:45","ms":"+4ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:57:45","ms":"+1ms"}
+{"message":"++++ HOST       : https://56b5-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:57:45","ms":"+7ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 10:57:45","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 10:57:46","ms":"+457ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 10:57:46","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 10:57:56","ms":"+10s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:00:03","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:00:03","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:00:03","ms":"+1ms"}
+{"message":"++++ HOST       : https://56b5-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:00:03","ms":"+7ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:00:03","ms":"+4ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 11:00:03","ms":"+457ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 11:00:03","ms":"+2ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:00:06","ms":"+3s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:00:13","ms":"+7s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:00:18","ms":"+5s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:00:18","ms":"+80ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:00:19","ms":"+141ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:00:26","ms":"+8s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:00:55","ms":"+28s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:01:04","ms":"+9s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:01:04","ms":"+70ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:01:04","ms":"+133ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mini-relevé","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:01:08","ms":"+4s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"1","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:01:25","ms":"+18s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:02:50","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:02:50","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:02:50","ms":"+1ms"}
+{"message":"++++ HOST       : https://56b5-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:02:50","ms":"+7ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:02:50","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 11:02:51","ms":"+461ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 11:02:51","ms":"+1ms"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:03:08","ms":"+17s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"coucou","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:03:13","ms":"+5s"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","text":"Mbola","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:03:53","ms":"+41s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:09:12","ms":"+5m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:09:17","ms":"+5s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:09:17","ms":"+32ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:09:17","ms":"+69ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:09:20","ms":"+3s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:13:51","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:13:51","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:13:51","ms":"+1ms"}
+{"message":"++++ HOST       : https://56b5-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:13:51","ms":"+5ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:13:51","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 11:13:51","ms":"+491ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 11:13:51","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:13:55","ms":"+4s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:14:00","ms":"+5s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:14:04","ms":"+4s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:14:04","ms":"+80ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:14:05","ms":"+136ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:14:08","ms":"+4s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:18:03","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:18:03","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:18:03","ms":"+1ms"}
+{"message":"++++ HOST       : https://56b5-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:18:03","ms":"+1ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:18:03","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 11:18:03","ms":"+457ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 11:18:03","ms":"+2ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:18:24","ms":"+21s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:18:36","ms":"+12s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:18:41","ms":"+4s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:18:41","ms":"+11ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:18:41","ms":"+43ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:18:45","ms":"+4s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"Ylvana","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:19:52","ms":"+1m"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:19:59","ms":"+7s"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:20:05","ms":"+6s"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:20:13","ms":"+8s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:20:13","ms":"+82ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:20:13","ms":"+137ms"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"Coucou niverina","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:20:45","ms":"+32s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:27:29","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:27:29","ms":"+4ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:27:29","ms":"+1ms"}
+{"message":"++++ HOST       : https://56b5-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:27:30","ms":"+9ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:27:30","ms":"+5ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 11:27:30","ms":"+466ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 11:27:30","ms":"+2ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:28:25","ms":"+55s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:28:53","ms":"+28s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:28:58","ms":"+5s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:28:58","ms":"+81ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:28:58","ms":"+135ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:29:03","ms":"+4s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:31:03","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:31:03","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:31:03","ms":"+1ms"}
+{"message":"++++ HOST       : https://56b5-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:31:03","ms":"+12ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 11:31:03","ms":"+5ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 11:31:03","ms":"+464ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 11:31:03","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:31:07","ms":"+4s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:31:13","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:31:18","ms":"+5s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:31:18","ms":"+82ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:31:18","ms":"+131ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:31:28","ms":"+10s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:32:00","ms":"+32s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:32:07","ms":"+7s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:32:07","ms":"+437ms"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:32:07","ms":"+3ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Vers un compte tiers","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:32:16","ms":"+8s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"1","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:32:49","ms":"+34s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Liste favoris","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:32:54","ms":"+5s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Lita","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:33:00","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"2000","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:33:11","ms":"+11s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Loyer","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:33:18","ms":"+7s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"Hello","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:33:57","ms":"+38s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:34:11","ms":"+14s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:34:28","ms":"+17s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:34:28","ms":"+81ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:34:28","ms":"+139ms"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:34:34","ms":"+6s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Code oublié","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:35:57","ms":"+1m"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Oui, je valide","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:36:03","ms":"+6s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"Hello","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:37:16","ms":"+1m"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:37:22","ms":"+6s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:37:28","ms":"+6s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:37:28","ms":"+69ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:37:28","ms":"+121ms"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:37:33","ms":"+5s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:38:02","ms":"+29s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:38:22","ms":"+20s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:38:22","ms":"+79ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:38:22","ms":"+150ms"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Mini-relevé","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:38:27","ms":"+4s"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:38:34","ms":"+8s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"1","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:38:48","ms":"+14s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:38:58","ms":"+10s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:39:02","ms":"+4s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:39:02","ms":"+233ms"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:39:02","ms":"+1ms"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Vers mon compte","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:39:25","ms":"+23s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"2","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:40:09","ms":"+44s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"1","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:40:18","ms":"+9s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"1000000","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:40:37","ms":"+18s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"Test virement compte à compte","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:40:55","ms":"+18s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:41:27","ms":"+33s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:41:33","ms":"+5s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:41:33","ms":"+403ms"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:41:33","ms":"+13ms"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Vers un compte tiers","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:41:39","ms":"+5s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"1","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:42:15","ms":"+37s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"Autre compte","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:42:21","ms":"+6s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"SOCIETE GENERALE","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:42:51","ms":"+30s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"00008010140500122623481","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:44:03","ms":"+1m"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"Andrianina fitia Nambinintsoa","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:44:23","ms":"+20s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"10000","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:44:32","ms":"+9s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"Test virement externe","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:45:15","ms":"+43s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Enregistrer","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:45:42","ms":"+27s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"Natsu","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:45:54","ms":"+12s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"RECTIFIER","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:46:00","ms":"+6s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"Natsu BFV","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:46:10","ms":"+9s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"VALIDER","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:46:15","ms":"+5s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:46:41","ms":"+27s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:47:19","ms":"+38s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:47:19","ms":"+386ms"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:47:19","ms":"+2ms"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Vers un compte tiers","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:47:31","ms":"+12s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"2","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:50:25","ms":"+3m"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"Autre compte","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:51:26","ms":"+1m"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"ABM","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:51:37","ms":"+11s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"00011000062410014991470","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:53:51","ms":"+2m"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"0","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:54:03","ms":"+12s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:54:12","ms":"+9s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:54:21","ms":"+9s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:54:21","ms":"+132ms"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-09-10 11:54:21","ms":"+1ms"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Vers un compte tiers","level":"info","message":"Input_Payload","timestamp":"2021-09-10 11:54:26","ms":"+5s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"00001100012110024291776","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:55:18","ms":"+53s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"Razafimahatratra rejo","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:55:54","ms":"+36s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"1","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:56:20","ms":"+26s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"Autre compte","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:56:32","ms":"+12s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"Euh","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:57:04","ms":"+32s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"ABM","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:57:14","ms":"+10s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"00001100012110024291776","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:57:20","ms":"+7s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"0001100012110024291776","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:57:44","ms":"+23s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"00011000012110024291776","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:58:19","ms":"+35s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"00011000012110094291776","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:59:07","ms":"+48s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"Razafimahatratra rejo","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:59:24","ms":"+17s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"200000","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:59:34","ms":"+10s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"Test virement  ABM","level":"info","message":"Input_Message","timestamp":"2021-09-10 11:59:51","ms":"+17s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Enregistrer","level":"info","message":"Input_Payload","timestamp":"2021-09-10 12:01:14","ms":"+1m"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"Rejo Épargne","level":"info","message":"Input_Message","timestamp":"2021-09-10 12:01:23","ms":"+9s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"VALIDER","level":"info","message":"Input_Payload","timestamp":"2021-09-10 12:01:37","ms":"+13s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 12:07:54","ms":"+6m"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 12:09:57","ms":"+2m"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 12:09:57","ms":"+57ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 12:09:57","ms":"+107ms"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 12:10:02","ms":"+5s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"*","level":"info","message":"Input_Message","timestamp":"2021-09-10 12:11:38","ms":"+2m"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"*","level":"info","message":"Input_Message","timestamp":"2021-09-10 12:11:40","ms":"+2s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"*","level":"info","message":"Input_Message","timestamp":"2021-09-10 12:11:41","ms":"+1s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 12:12:48","ms":"+1m"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 12:15:23","ms":"+3m"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 12:15:23","ms":"+96ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 12:15:23","ms":"+119ms"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 12:15:30","ms":"+7s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 12:16:49","ms":"+1m"}
+{"service":"bot-service","sender":"LHfeL699YvQ7uaO2GFbWhg==","payload":"Valider votre compte","level":"info","message":"Input_Payload","timestamp":"2021-09-10 12:16:54","ms":"+5s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-09-10 12:17:05","ms":"+11s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 12:17:05","ms":"+426ms"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-09-10 12:17:06","ms":"+10ms"}
+{"service":"bot-service","sender":"LHfeL699YvQ7uaO2GFbWhg==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 12:17:06","ms":"+672ms"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","payload":"Vers mon compte","level":"info","message":"Input_Payload","timestamp":"2021-09-10 12:17:15","ms":"+9s"}
+{"service":"bot-service","sender":"LHfeL699YvQ7uaO2GFbWhg==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 12:17:23","ms":"+9s"}
+{"service":"bot-service","sender":"LHfeL699YvQ7uaO2GFbWhg==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 12:17:40","ms":"+17s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 12:17:40","ms":"+70ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 12:17:40","ms":"+111ms"}
+{"service":"bot-service","sender":"LHfeL699YvQ7uaO2GFbWhg==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 12:17:45","ms":"+5s"}
+{"service":"bot-service","sender":"m/0HWfa7KnUFoDfFkkEZ7g==","text":"0","level":"info","message":"Input_Message","timestamp":"2021-09-10 12:20:01","ms":"+2m"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:40:37","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:40:37","ms":"+4ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:40:37","ms":"+12ms"}
+{"message":"++++ HOST       : https://01d6-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:40:37","ms":"+1ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:40:37","ms":"+3ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 13:40:37","ms":"+556ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 13:40:37","ms":"+1ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:46:23","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:46:23","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:46:23","ms":"+0ms"}
+{"message":"++++ HOST       : https://01d6-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:46:23","ms":"+6ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:46:23","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 13:46:23","ms":"+465ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 13:46:23","ms":"+7ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:48:38","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:48:38","ms":"+4ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:48:38","ms":"+1ms"}
+{"message":"++++ HOST       : https://01d6-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:48:38","ms":"+8ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:48:38","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 13:48:38","ms":"+452ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 13:48:38","ms":"+6ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 13:49:24","ms":"+46s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 13:49:30","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 13:49:36","ms":"+6s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 13:49:36","ms":"+19ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 13:49:36","ms":"+92ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 13:49:43","ms":"+6s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at SwitchNextChainEndServiceChain.executeProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\common-service\\switch-end-service.chain.js:13:18)\n    at GetPseudoChain.executeNextProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:13:14)\n    at GiveAllBalancesChain.executeNextProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GiveAllBalancesChain.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\my-account\\check-balance\\give-all-balances.chain.js:44:18)\n    at ViberContext.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\social-medias\\viber\\viber-context.js:39:25)\n    at Request._callback (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\viber.middleware.js:39:17)\n    at Request.self.callback (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)","timestamp":"2021-09-10 13:50:15","ms":"+32s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:51:11","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:51:11","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:51:11","ms":"+0ms"}
+{"message":"++++ HOST       : https://01d6-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:51:11","ms":"+11ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:51:11","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 13:51:12","ms":"+476ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 13:51:12","ms":"+1ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 13:51:16","ms":"+5s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 13:51:24","ms":"+8s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 13:51:33","ms":"+9s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 13:51:33","ms":"+191ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 13:51:33","ms":"+57ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 13:51:39","ms":"+6s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at SwitchNextChainEndServiceChain.executeProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\common-service\\switch-end-service.chain.js:13:18)\n    at GetPseudoChain.executeNextProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:13:14)\n    at GiveAllBalancesChain.executeNextProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GiveAllBalancesChain.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\my-account\\check-balance\\give-all-balances.chain.js:44:18)\n    at ViberContext.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\social-medias\\viber\\viber-context.js:39:25)\n    at Request._callback (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\viber.middleware.js:39:17)\n    at Request.self.callback (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)","timestamp":"2021-09-10 13:52:02","ms":"+23s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:54:29","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:54:29","ms":"+7ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:54:29","ms":"+11ms"}
+{"message":"++++ HOST       : https://01d6-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:54:29","ms":"+2ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:54:29","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 13:54:29","ms":"+457ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 13:54:29","ms":"+9ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 13:54:35","ms":"+5s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 13:54:40","ms":"+5s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 13:54:44","ms":"+4s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 13:54:45","ms":"+21ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 13:54:45","ms":"+60ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 13:54:48","ms":"+4s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at SwitchNextChainEndServiceChain.executeProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\common-service\\switch-end-service.chain.js:13:18)\n    at GetPseudoChain.executeNextProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:13:14)\n    at GiveAllBalancesChain.executeNextProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GiveAllBalancesChain.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\my-account\\check-balance\\give-all-balances.chain.js:44:18)\n    at ViberContext.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\social-medias\\viber\\viber-context.js:39:25)\n    at Request._callback (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\viber.middleware.js:39:17)\n    at Request.self.callback (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)","timestamp":"2021-09-10 13:55:04","ms":"+15s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:58:31","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:58:31","ms":"+17ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:58:31","ms":"+17ms"}
+{"message":"++++ HOST       : https://01d6-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:58:31","ms":"+1ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:58:31","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 13:58:32","ms":"+510ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 13:58:32","ms":"+2ms"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:59:32","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:59:32","ms":"+9ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:59:32","ms":"+15ms"}
+{"message":"++++ HOST       : https://01d6-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:59:32","ms":"+2ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 13:59:32","ms":"+2ms"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at SwitchNextChainEndServiceChain.executeProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\common-service\\switch-end-service.chain.js:13:18)\n    at GetPseudoChain.executeNextProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:13:14)\n    at Object.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\app.js:31:421)\n    at Module._compile (internal/modules/cjs/loader.js:956:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)\n    at Module.load (internal/modules/cjs/loader.js:812:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:724:14)\n    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)\n    at internal/main/run_main_module.js:17:11","timestamp":"2021-09-10 13:59:32","ms":"+466ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 13:59:32","ms":"+102ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 13:59:32","ms":"+1ms"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'sendRequest' of null","stack":"TypeError: Cannot read property 'sendRequest' of null\n    at GetClientDetailsByFbIdChain.executeProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api\\get-client-details-by-fb-id.chain.js:14:50)\n    at MainMenuAgainChain.executeProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\main-menu\\main-menu-again.chain.js:16:19)\n    at ThanksClientChain.executeNextProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at ThanksClientChain.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\common-service\\thanks-client.chain.js:22:18)\n    at ViberContext.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\social-medias\\viber\\viber-context.js:39:25)\n    at Request._callback (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\viber.middleware.js:39:17)\n    at Request.self.callback (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)\n    at Request.emit (events.js:210:5)","timestamp":"2021-09-10 13:59:34","ms":"+1s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 14:08:45","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 14:08:45","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 14:08:45","ms":"+1ms"}
+{"message":"++++ HOST       : https://01d6-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 14:08:45","ms":"+9ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 14:08:45","ms":"+1ms"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at SwitchNextChainEndServiceChain.executeProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\common-service\\switch-end-service.chain.js:13:18)\n    at GetPseudoChain.executeNextProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:13:14)\n    at Object.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\app.js:31:421)\n    at Module._compile (internal/modules/cjs/loader.js:956:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:973:10)\n    at Module.load (internal/modules/cjs/loader.js:812:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:724:14)\n    at Function.Module.runMain (internal/modules/cjs/loader.js:1025:10)\n    at internal/main/run_main_module.js:17:11","timestamp":"2021-09-10 14:08:46","ms":"+510ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 14:08:46","ms":"+38ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 14:08:46","ms":"+9ms"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'sendRequest' of null","stack":"TypeError: Cannot read property 'sendRequest' of null\n    at GetClientDetailsByFbIdChain.executeProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api\\get-client-details-by-fb-id.chain.js:14:50)\n    at MainMenuAgainChain.executeProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\main-menu\\main-menu-again.chain.js:16:19)\n    at ThanksClientChain.executeNextProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at ThanksClientChain.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\common-service\\thanks-client.chain.js:22:18)\n    at ViberContext.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\social-medias\\viber\\viber-context.js:39:25)\n    at Request._callback (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\viber.middleware.js:39:17)\n    at Request.self.callback (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)\n    at Request.emit (events.js:210:5)","timestamp":"2021-09-10 14:08:47","ms":"+1s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 14:09:10","ms":"+23s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 14:09:15","ms":"+5s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 14:09:19","ms":"+4s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 14:09:19","ms":"+25ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 14:09:19","ms":"+69ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 14:09:23","ms":"+4s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at SwitchNextChainEndServiceChain.executeProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\common-service\\switch-end-service.chain.js:13:18)\n    at GetPseudoChain.executeNextProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:13:14)\n    at GiveAllBalancesChain.executeNextProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GiveAllBalancesChain.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\my-account\\check-balance\\give-all-balances.chain.js:43:18)\n    at ViberContext.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\social-medias\\viber\\viber-context.js:39:25)\n    at Request._callback (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\viber.middleware.js:39:17)\n    at Request.self.callback (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)","timestamp":"2021-09-10 14:09:38","ms":"+16s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 14:13:09","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 14:13:09","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 14:13:09","ms":"+1ms"}
+{"message":"++++ HOST       : https://01d6-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 14:13:09","ms":"+9ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 14:13:09","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 14:13:10","ms":"+479ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 14:13:10","ms":"+9ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 14:13:14","ms":"+4s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 14:21:21","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 14:21:21","ms":"+6ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 14:21:21","ms":"+8ms"}
+{"message":"++++ HOST       : https://01d6-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 14:21:21","ms":"+1ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 14:21:21","ms":"+3ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 14:21:22","ms":"+475ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 14:21:22","ms":"+6ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 14:21:27","ms":"+5s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 14:21:33","ms":"+6s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 14:21:37","ms":"+4s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 14:21:37","ms":"+19ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 14:21:37","ms":"+67ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 14:21:41","ms":"+4s"}
+{"service":"bot-service","level":"error","message":"ExecuteNextProcess Cannot read property 'pseudo' of null","stack":"TypeError: Cannot read property 'pseudo' of null\n    at SwitchNextChainEndServiceChain.executeProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\common-service\\switch-end-service.chain.js:13:18)\n    at GetPseudoChain.executeNextProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GetPseudoChain.executeProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\api-messenger-platform\\get-pseudo-first-name.chain.js:13:14)\n    at GiveAllBalancesChain.executeNextProcess (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\interfaces\\chain.interface.js:23:41)\n    at GiveAllBalancesChain.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\process-chains\\my-account\\check-balance\\give-all-balances.chain.js:43:18)\n    at ViberContext.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\social-medias\\viber\\viber-context.js:39:25)\n    at Request._callback (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\dist\\middlewares\\viber.middleware.js:39:17)\n    at Request.self.callback (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:185:22)\n    at Request.emit (events.js:210:5)\n    at Request.<anonymous> (D:\\MyAcces.Viber\\MyAcces.Viber\\MyAcces.bot\\node_modules\\request\\request.js:1161:10)","timestamp":"2021-09-10 14:21:56","ms":"+15s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 14:50:56","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 14:50:56","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 14:50:56","ms":"+1ms"}
+{"message":"++++ HOST       : https://01d6-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 14:50:56","ms":"+8ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 14:50:56","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 14:50:56","ms":"+450ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 14:50:56","ms":"+6ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 14:52:50","ms":"+2m"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 14:53:38","ms":"+48s"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 14:53:42","ms":"+4s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 14:53:42","ms":"+17ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 14:53:42","ms":"+88ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 14:55:17","ms":"+2m"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 15:00:13","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 15:00:13","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 15:00:13","ms":"+1ms"}
+{"message":"++++ HOST       : https://01d6-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 15:00:13","ms":"+0ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 15:00:13","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 15:00:14","ms":"+458ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 15:00:14","ms":"+5ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 15:00:20","ms":"+6s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 15:07:08","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 15:07:08","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 15:07:08","ms":"+1ms"}
+{"message":"++++ HOST       : https://01d6-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 15:07:08","ms":"+5ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 15:07:08","ms":"+1ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 15:07:09","ms":"+880ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 15:07:09","ms":"+2ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 15:07:42","ms":"+33s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 15:08:50","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 15:08:50","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 15:08:50","ms":"+0ms"}
+{"message":"++++ HOST       : https://01d6-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 15:08:50","ms":"+5ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 15:08:50","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 15:08:51","ms":"+501ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 15:08:51","ms":"+3ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 15:08:54","ms":"+3s"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","text":"0","level":"info","message":"Input_Message","timestamp":"2021-09-10 15:17:00","ms":"+8m"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 15:17:15","ms":"+14s"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 15:17:29","ms":"+14s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 15:17:29","ms":"+22ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 15:17:29","ms":"+79ms"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 15:17:34","ms":"+5s"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","payload":"Code oublié","level":"info","message":"Input_Payload","timestamp":"2021-09-10 15:18:42","ms":"+1m"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"Bonjour","level":"info","message":"Input_Message","timestamp":"2021-09-10 15:18:45","ms":"+3s"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","payload":"Oui, je valide","level":"info","message":"Input_Payload","timestamp":"2021-09-10 15:18:46","ms":"+683ms"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 15:18:58","ms":"+13s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 15:19:13","ms":"+14s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 15:19:13","ms":"+20ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 15:19:13","ms":"+344ms"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 15:19:25","ms":"+12s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Code oublié","level":"info","message":"Input_Payload","timestamp":"2021-09-10 15:19:43","ms":"+18s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Oui, je valide","level":"info","message":"Input_Payload","timestamp":"2021-09-10 15:19:49","ms":"+6s"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","text":"cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 15:27:03","ms":"+7m"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 15:27:15","ms":"+12s"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 15:27:18","ms":"+3s"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 15:27:22","ms":"+4s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 15:27:22","ms":"+21ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 15:27:22","ms":"+67ms"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","payload":"Mini-relevé","level":"info","message":"Input_Payload","timestamp":"2021-09-10 15:29:07","ms":"+2m"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 15:49:09","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 15:49:09","ms":"+4ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 15:49:09","ms":"+1ms"}
+{"message":"++++ HOST       : https://11f6-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 15:49:09","ms":"+9ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 15:49:09","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 15:49:09","ms":"+547ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 15:49:09","ms":"+5ms"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"Bonjour","level":"info","message":"Input_Message","timestamp":"2021-09-10 15:49:32","ms":"+23s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 15:49:48","ms":"+16s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 15:49:59","ms":"+11s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 15:49:59","ms":"+23ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 15:49:59","ms":"+69ms"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 15:50:05","ms":"+5s"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","text":"1","level":"info","message":"Input_Message","timestamp":"2021-09-10 15:58:37","ms":"+9m"}
+{"service":"bot-service","sender":"nXGZWA5gtUoyphOy+9+uqw==","text":"Coucou","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:02:12","ms":"+4m"}
+{"service":"bot-service","sender":"nXGZWA5gtUoyphOy+9+uqw==","text":"Géo","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:03:44","ms":"+2m"}
+{"service":"bot-service","sender":"nXGZWA5gtUoyphOy+9+uqw==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:03:59","ms":"+15s"}
+{"service":"bot-service","sender":"nXGZWA5gtUoyphOy+9+uqw==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:04:25","ms":"+26s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 16:04:25","ms":"+144ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 16:04:25","ms":"+69ms"}
+{"service":"bot-service","sender":"nXGZWA5gtUoyphOy+9+uqw==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:04:31","ms":"+5s"}
+{"service":"bot-service","sender":"nXGZWA5gtUoyphOy+9+uqw==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:05:05","ms":"+34s"}
+{"service":"bot-service","sender":"nXGZWA5gtUoyphOy+9+uqw==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:05:09","ms":"+4s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 16:05:09","ms":"+15ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 16:05:09","ms":"+66ms"}
+{"service":"bot-service","sender":"nXGZWA5gtUoyphOy+9+uqw==","payload":"Mini-relevé","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:05:14","ms":"+5s"}
+{"service":"bot-service","sender":"nXGZWA5gtUoyphOy+9+uqw==","text":"1","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:05:42","ms":"+28s"}
+{"service":"bot-service","sender":"nXGZWA5gtUoyphOy+9+uqw==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:05:55","ms":"+14s"}
+{"service":"bot-service","sender":"nXGZWA5gtUoyphOy+9+uqw==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:06:03","ms":"+8s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 16:06:03","ms":"+26ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 16:06:03","ms":"+59ms"}
+{"service":"bot-service","sender":"eAK/TToTHpMSe6BJr/epHA==","text":"Cc","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:06:10","ms":"+7s"}
+{"service":"bot-service","sender":"nXGZWA5gtUoyphOy+9+uqw==","text":"Hé","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:06:13","ms":"+3s"}
+{"service":"bot-service","sender":"nXGZWA5gtUoyphOy+9+uqw==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:06:20","ms":"+7s"}
+{"service":"bot-service","sender":"nXGZWA5gtUoyphOy+9+uqw==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:06:24","ms":"+4s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 16:06:24","ms":"+162ms"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-09-10 16:06:24","ms":"+1ms"}
+{"service":"bot-service","sender":"nXGZWA5gtUoyphOy+9+uqw==","payload":"Vers mon compte","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:06:30","ms":"+6s"}
+{"service":"bot-service","sender":"9bxMAaySqLWkhUE/yXn8yQ==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:07:00","ms":"+30s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"bonjour","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:08:57","ms":"+2m"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:09:04","ms":"+7s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:09:07","ms":"+3s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 16:09:07","ms":"+18ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 16:09:07","ms":"+49ms"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:09:13","ms":"+6s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"bonjour","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:10:26","ms":"+1m"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:10:34","ms":"+8s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:10:40","ms":"+5s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 16:10:40","ms":"+7ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 16:10:40","ms":"+41ms"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Mon solde","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:10:55","ms":"+15s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:11:56","ms":"+1m"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Consultation","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:12:00","ms":"+4s"}
+{"message":"*Resolver> ?checkMyAccountChain> 1 chain","level":"silly","service":"bot-service","timestamp":"2021-09-10 16:12:00","ms":"+28ms"}
+{"message":"**Process-chain> my-account> chain? CheckMyAccountChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 16:12:00","ms":"+37ms"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Mini-relevé","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:12:04","ms":"+4s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"1","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:12:53","ms":"+50s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:13:16","ms":"+23s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:13:21","ms":"+5s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 16:13:21","ms":"+118ms"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-09-10 16:13:21","ms":"+1ms"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Vers mon compte","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:13:45","ms":"+23s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"1","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:14:29","ms":"+44s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"0","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:15:13","ms":"+44s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:15:34","ms":"+21s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:15:40","ms":"+6s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 16:15:40","ms":"+120ms"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-09-10 16:15:40","ms":"+1ms"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Vers un compte tiers","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:15:44","ms":"+4s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"1","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:23:53","ms":"+8m"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"Autre compte","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:24:04","ms":"+11s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"ABM","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:27:24","ms":"+3m"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"00011000142110055840878","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:29:18","ms":"+2m"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"Ralamboarison Rajo","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:29:56","ms":"+38s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"500000","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:30:29","ms":"+33s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Mes comptes","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:35:15","ms":"+5m"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Envoi d'argent","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:35:20","ms":"+4s"}
+{"message":"**Process-chain> transfer> transfer-type> chaine? inputTransferTypeChain","level":"silly","service":"bot-service","timestamp":"2021-09-10 16:35:20","ms":"+119ms"}
+{"message":"*** - then ask the client to choose TRANSFER TYPE","level":"silly","service":"bot-service","timestamp":"2021-09-10 16:35:20","ms":"+0ms"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Vers un compte tiers","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:35:23","ms":"+4s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"1","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:36:00","ms":"+37s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"Autre compte","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:36:09","ms":"+9s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"ABM","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:36:12","ms":"+4s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"00011000142110055840878","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:36:27","ms":"+15s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"Test virement Rajo","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:36:50","ms":"+23s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"200000","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:36:59","ms":"+9s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"Loyer test","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:37:23","ms":"+24s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"Enregistrer","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:38:41","ms":"+1m"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"Loyer_test_virement","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:39:09","ms":"+28s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"Loyer test virement","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:39:35","ms":"+26s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","text":"Loyervrt","level":"info","message":"Input_Message","timestamp":"2021-09-10 16:39:55","ms":"+20s"}
+{"service":"bot-service","sender":"MlbqbyQgy0lHq0l0HOFB2g==","payload":"VALIDER","level":"info","message":"Input_Payload","timestamp":"2021-09-10 16:40:09","ms":"+14s"}
+{"message":"++++ Bot Name   : MyAccès","level":"debug","service":"bot-service","timestamp":"2021-09-10 17:07:52","ms":"+0ms"}
+{"message":"++++ Bot Status : DEV","level":"debug","service":"bot-service","timestamp":"2021-09-10 17:07:52","ms":"+5ms"}
+{"message":"++++ Bot Access : ACCESS_TO_ALL","level":"debug","service":"bot-service","timestamp":"2021-09-10 17:07:52","ms":"+1ms"}
+{"message":"++++ HOST       : https://11f6-154-126-61-242.ngrok.io","level":"debug","service":"bot-service","timestamp":"2021-09-10 17:07:52","ms":"+5ms"}
+{"message":"++++ API HOST   : http://localhost:51943","level":"debug","service":"bot-service","timestamp":"2021-09-10 17:07:52","ms":"+2ms"}
+{"message":"Http server is listening on 60067","level":"info","service":"bot-service","timestamp":"2021-09-10 17:07:53","ms":"+499ms"}
+{"message":"Https server is listening on 60066","level":"info","service":"bot-service","timestamp":"2021-09-10 17:07:53","ms":"+1ms"}

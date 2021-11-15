@@ -1,0 +1,3 @@
+FbIdDebiteur,CompteDebiteur,NomBeneficiaire,BanqueBeneficiaire,CompteBeneficiaire,Montant,Motif,EstInstantane,RefTransfer,Date
+|00011000112410085881226|MOI MEME|ABM||10000|loyer|true|11QI00000118|Tue Aug 17 2021 09:47:54
+|00011000032110052879439|MOI MEME|ABM||10000|loyer|true|03QI00000442|Tue Aug 17 2021 09:56:10
