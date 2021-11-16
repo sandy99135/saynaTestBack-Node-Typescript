@@ -1,7 +1,7 @@
 module.exports = {
     apps: [
       {
-        name: "MyAccèsV2",
+        name: "test",
         script: "dist\\app.js",
         env: {
           NODE_ENV: "development"
