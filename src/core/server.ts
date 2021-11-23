@@ -210,7 +210,7 @@ export class HttpServer {
             }
             console.log(`Http server is listening on ${this.port + 1}`);
         });
-        mongoose.connect("mongodb+srv://sandy:andomalala@cluster0-nkfjf.mongodb.net/test?retryWrites=true&w=majority", {useNewUrlParser:true},function(error){
+        mongoose.connect("mongodb+srv://sandy:tsitsimalala@cluster0-nkfjf.mongodb.net/test?retryWrites=true&w=majority", {useNewUrlParser:true},function(error){
             if(error){
                 console.log(error)
             }
